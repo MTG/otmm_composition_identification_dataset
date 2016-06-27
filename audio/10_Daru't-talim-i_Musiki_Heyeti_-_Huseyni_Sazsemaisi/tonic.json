@@ -5,47 +5,5 @@
 		"Value": 388.8324,
 		"Method": "Picked the karar manually from the prominent pitch of the audio recording with 1 cent precision.",
 		"Citation": "Salamon, J., & Gomez, E. (2012). Melody extraction from polyphonic music signals using pitch contour characteristics. IEEE Transactions on Audio, Speech, and Language Processing, 20(6), 1759-1770."
-	},
-	"audioHistogramMatching": {
-		"OctaveWrapped": 1,
-		"Unit": "Hz",
-		"Value": 386.8221,
-		"Method": "Tonic identification by audio histogram matching given the annotated makam",
-		"Citation": "Gedik, A. C., & Bozkurt, B. (2010). Pitch-frequency histogram-based music information retrieval for Turkish music. Signal Processing, 90(4), 1049-1063."
-	},
-	"distributionMatching": {
-		"OctaveWrapped": 1,
-		"Unit": "Hz",
-		"Value": 388.0529,
-		"Method": "Tonic identification by matching the pitch distributions computed from the score and audio recording.",
-		"Citation": "Senturk, S., Gulati, S., and Serra, X. (2013). Score informed tonic identification for makam music of Turkey. In Proceedings of 14th International Society for Music Information Retrieval Conference (ISMIR), pages 175-180, Curitiba, Brazil."
-	},
-	"repetitiveSectionLinking": {
-		"Value": 388.0595281,
-		"Unit": "Hz",
-		"OctaveWrapped": 1,
-		"Method": "repetitiveSectionLinking",
-		"Citation": "Senturk, S., Gulati, S., & Serra, X. Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of ISMIR, 2013."
-	},
-	"firstAndRepetitiveSectionLinking": {
-		"Value": 388.0595281,
-		"Unit": "Hz",
-		"OctaveWrapped": 1,
-		"Method": "firstAndRepetitiveSectionLinking",
-		"Citation": "Senturk, S., Gulati, S., & Serra, X. Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of ISMIR, 2013."
-	},
-	"scoreInformed": {
-		"OctaveWrapped": 0,
-		"Method": {
-			"Location": "repetition",
-			"Duration": {
-				"Value": 15,
-				"Unit": "second"
-			},
-			"TempoMethod": "none"
-		},
-		"Citation": "Senturk, S., Gulati, S., & Serra, X. Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of ISMIR, 2013.",
-		"Value": 388.0595281,
-		"Unit": "Hz"
 	}
 }
