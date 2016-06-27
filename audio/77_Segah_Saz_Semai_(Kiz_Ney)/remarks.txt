@@ -1,0 +1,1 @@
+In this piece there is solo ney accompanied by percussion. The percussion is mixed such that it is heard more prominently than the ney (!?). Therefore the predominant melody extraction captures the percussion as the main voice and fails.

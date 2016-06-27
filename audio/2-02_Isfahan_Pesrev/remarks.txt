@@ -1,0 +1,5 @@
+This is a mix of two historical recordings of Isfahan Peşrev and Isfahan Sazsemaisi, respectively.
+
+There are three distinct karar (tonic) frequencies throughout the recording. The musicians start playing the tonic approximately at 175Hz. At the 245th second mark, the virtuosos somehow lose their coordination and the melodic intervals are mixed. The tonic played at the conclusion (e.g. the last note) of the first performance (Isfahan Peşrev) is around 185 Hz.
+
+The next performance (Isfahan Sazsemaisi) has a relatively stable tonic frequency at around 169Hz. Note that the historical recordings tend to have local pitch shifts which makes it hard to identify a precise or correct tonic frequency.

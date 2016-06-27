@@ -1,0 +1,1 @@
+1e716ab1-3501-43c8-807b-4fc6180a91f1 is an historical recording. As can be noticed from the speed of speech the announcer the recording plays slower in the start. At around 14.5 seconds it gets faster and then becomes stable. Therefore there is a pitch shift of approximately -40 cents in the start of the recording compared to the rest.
