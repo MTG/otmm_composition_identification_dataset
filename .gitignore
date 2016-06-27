@@ -1,5 +1,6 @@
-# audio files
+# audio files and features
 *.mp3
+predominantMelody.mat
 
 # log files and file/folder related files
 *.log
