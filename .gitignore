@@ -1,6 +1,9 @@
 # audio files
 *.mp3
 
+# log files 
+*.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
