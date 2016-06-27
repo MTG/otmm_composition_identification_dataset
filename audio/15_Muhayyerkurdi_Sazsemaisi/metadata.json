@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "name": "Necati \u00c7elik", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "c87de4e0-ace7-47ec-9491-a68fd681592b", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "muhayyerk\u00fcrdi"
+    }, 
+    "title": "Muhayyerkurdi Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "eb9d70ae-a81b-4a31-bcd6-bd5824cc7eae", 
+                    "name": "Resat Aysu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "b0640847-bb2c-4494-993c-8d6014748751", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Muhayyerkurdi Saz Semai"
+        }
+    ]
+}

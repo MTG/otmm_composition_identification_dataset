@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "c9c35bfc-c0bb-47ca-8784-f057a51c5f9f", 
+            "name": "Para\u015fko Leondarides", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "800669a3-0880-4dae-9805-b6a686fdc0c2", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "segah", 
+        "usul": "hafif"
+    }, 
+    "title": "Segah Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "d79edba2-8490-4b44-98bf-90090aa762b3", 
+                    "name": "Tanburi Kucuk Osman Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "92dacf95-1964-49bd-84dd-59349d7ea3aa", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Segah Pesrev"
+        }
+    ]
+}

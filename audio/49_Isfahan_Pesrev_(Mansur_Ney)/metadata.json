@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "90be3795-67da-4cf5-bf37-805005dc6c2b", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u0131sfahan"
+    }, 
+    "title": "Isfahan Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "83534641-ebbc-488d-86f5-5603518dde5c", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Isfahan Pesrev"
+        }
+    ]
+}

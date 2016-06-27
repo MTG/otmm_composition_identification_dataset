@@ -1,0 +1,99 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "percussion"
+            ], 
+            "mbid": "4cf7b5e6-3dc6-422a-b1a6-1342340ec041", 
+            "name": "Seyfettin Ura\u015f", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "61f7fce2-d647-4d0f-bb50-e3ae683272cc", 
+            "name": "G\u00fcrcan Yaman", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "79192ae7-7953-474b-bcd5-fd61bd337bb5", 
+            "name": "Pelin De\u011firmenci", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "b5b62276-f52c-47bc-a86d-76dd39ac7f52", 
+            "name": "Burcu Karada\u011f", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "percussion"
+            ], 
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "name": "Fahrettin Yark\u0131n", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "27eadb56-fa8b-4724-a863-e0f21d35fcdf", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "uzzal"
+    }, 
+    "title": "Uzzal Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "3fb37725-a675-4b4c-86bc-b8f7d4f98177", 
+                    "name": "Sultan IV. Murad", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "e47a998c-eefd-4a34-8bfb-25eeb45fadf6", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Uzzal Pesrev"
+        }
+    ]
+}

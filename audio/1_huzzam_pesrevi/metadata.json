@@ -1,0 +1,42 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "2234e824-22c9-4e87-9750-5014853b4901", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "h\u00fczzam", 
+        "usul": "muhammes"
+    }, 
+    "title": "Huzzam Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fcc1e11e-97cf-41a3-9d66-76a944c96968", 
+                    "name": "Seyfettin Osmanoglu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "852232f7-e223-4561-9a22-313eb858c469", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Pesrev"
+        }
+    ]
+}

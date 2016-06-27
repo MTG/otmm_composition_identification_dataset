@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "name": "Bekir Reha Sa\u011fba\u015f", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "4120ca6d-ce65-4552-8124-9070e229f627", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u015fedaraban", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Sedaraban Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8c386f72-3292-4345-a675-be187b414a5b", 
+                    "name": "Gazi Giray Han", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "96a56aaf-dec7-4a4d-9914-5a7e6af1b14e", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sedaraban Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "a31b2683-a2ba-4262-9312-fa7d2d8d737b", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u0131sfahan"
+    }, 
+    "title": "Isfahan Saz Semai (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "128bbaa3-e7f2-417e-924e-0eac99880556", 
+            "score": {
+                "name": "isfahan--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Isfahan Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "7a5c9660-bdf1-48a6-992d-b7e73034bb9c", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "nikriz"
+    }, 
+    "title": "Nikriz Pesrev (Yildiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "df6b3687-8084-496a-a1c2-ac6af6c5952e", 
+                    "name": "Kemal Batanay", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "557c1a04-23e4-431e-b41c-245720ec8d39", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nikriz Pesrev"
+        }
+    ]
+}

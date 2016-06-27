@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "01803b71-6ea1-4649-b5b8-65429b98230a", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "nikriz", 
+        "usul": "d\u00fcyek"
+    }, 
+    "title": "Nikriz Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "e9123b97-0dad-4092-96c7-fc7b5790f711", 
+                    "name": "Ali Ufki", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "abbbc04a-e02e-4881-b7ec-7a0806ce4800", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nikriz Pesrev"
+        }
+    ]
+}

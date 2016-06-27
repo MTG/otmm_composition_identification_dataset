@@ -1,0 +1,73 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai", 
+                "solo"
+            ], 
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "name": "Niyazi Say\u0131n", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "37dd6a6a-4c19-4a86-886a-882840d59518", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "form1": "sazsemaisi", 
+        "form2": "pe\u015frev", 
+        "makam": "pen\u00e7gah", 
+        "makam1": "pesendide", 
+        "makam2": "acema\u015firan", 
+        "usul": "devr-i kebir", 
+        "usul1": "aksaksemai", 
+        "usul2": "devr-i kebir"
+    }, 
+    "title": "Pencgah Solo", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "01412a5d-1858-43b3-b5b0-78f383675e9b", 
+            "score": {
+                "name": "acemasiran--pesrev--devrikebir----dede_salih_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemasiran Pesrev"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "6e9dd532-9988-4e72-ba2e-c967c282519c", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Pencgah Pesrevi"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "1ab5a8c5-4693-43e4-809d-353990423938", 
+                    "name": "Sultan III. Selim", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "d1086c07-fb1f-4eb2-9585-9f22ea850f12", 
+            "score": {
+                "name": "pesendide--sazsemaisi--aksaksemai----iii_selim", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Pesendide Saz Semaisi"
+        }
+    ]
+}

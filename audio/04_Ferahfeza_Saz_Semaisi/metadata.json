@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "899c47c2-0d2f-4230-8748-01b339d229af", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "ferahfeza", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Ferahfeza Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
+                    "name": "Serif Muhittin Targan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "80a81c87-eb6e-40dc-b69a-e0712b4374f2", 
+            "score": {
+                "name": "ferahfeza--sazsemaisi--aksaksemai----serif_muhittin_targan", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahfeza Sazsemaisi"
+        }
+    ]
+}

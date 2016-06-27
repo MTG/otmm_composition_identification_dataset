@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "53c8a89a-3f75-40cb-b701-03fe3eef5f23", 
+            "name": "Selim G\u00fcler", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "fd40df6e-0dca-4e88-ac3b-9b3f3d6505d6", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "segah"
+    }, 
+    "title": "Segah Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "2a8a9c73-e177-46bf-9d4e-dac5f44dd9f7", 
+                    "name": "Osman Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "611c119a-62a0-4238-bb18-9ffe50d84d8b", 
+            "score": {
+                "name": "segah--sazsemaisi--aksaksemai----nayi_osman_dede", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Segah Sazsemaisi"
+        }
+    ]
+}

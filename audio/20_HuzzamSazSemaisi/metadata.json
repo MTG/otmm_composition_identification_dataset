@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "182d7cac-7ade-4712-8865-7ecbc98d719e", 
+            "name": "Refik Fersan", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "6a1f9f25-0255-4341-9485-e88a5ba08053", 
+            "name": "Fahire Fersan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "a6bffa54-8ed2-47e3-9328-d4061eae2ea9", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "h\u00fczzam", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Huzzam Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "182d7cac-7ade-4712-8865-7ecbc98d719e", 
+                    "name": "Refik Fersan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "5256a899-9db9-4a6d-bbd1-0f64fb7bc997", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Sazsemaisi"
+        }
+    ]
+}

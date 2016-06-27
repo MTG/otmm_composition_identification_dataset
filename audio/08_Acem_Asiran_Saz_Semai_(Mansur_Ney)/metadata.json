@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "name": "Volkan Y\u0131lmaz", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "8d2c9d41-47ae-494b-8a98-4ec119094c48", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "acema\u015firan"
+    }, 
+    "title": "Acem Asiran Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "eb9d70ae-a81b-4a31-bcd6-bd5824cc7eae", 
+                    "name": "Resat Aysu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "67cb7844-a66d-4669-b5fe-bc2aee6a4a5a", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acem Asiran Saz Semai"
+        }
+    ]
+}

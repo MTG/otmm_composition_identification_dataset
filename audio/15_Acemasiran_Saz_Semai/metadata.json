@@ -1,0 +1,84 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "name": "Volkan Y\u0131lmaz", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "name": "Ahmet Kadri Rizeli", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "percussion"
+            ], 
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "name": "Fahrettin Yark\u0131n", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "bendir"
+            ], 
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "name": "Vahit Anadolu", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "name": "Safinaz Rizeli", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "6c8c8406-9b5c-412a-b52f-45a5d5749d1e", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "acema\u015firan", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Acemasiran Saz Semai", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "d8ab1cd7-262c-444f-8e6b-ee226022a316", 
+                    "name": "Misirli Ibrahim Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "baabfe67-5f03-4f6a-8d0d-592e36a2894b", 
+            "score": {
+                "name": "acemasiran--sazsemaisi--aksaksemai----misirli_udi_ibrahim_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemasiran Sazsemaisi"
+        }
+    ]
+}

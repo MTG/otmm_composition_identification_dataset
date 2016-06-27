@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "66b3d116-5e3c-495e-8544-ea8f03a088d7", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u015fedaraban", 
+        "usul": "hafif"
+    }, 
+    "title": "Sedd-i Araban Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "182d7cac-7ade-4712-8865-7ecbc98d719e", 
+                    "name": "Refik Fersan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8347e5eb-bda1-420f-a230-278ef9f78bca", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sedaraban Pesrev"
+        }
+    ]
+}

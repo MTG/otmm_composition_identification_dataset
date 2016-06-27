@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "548ff002-bd6f-418e-ad56-defac13d6aea", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "tahirbuselik", 
+        "usul": "muhammes"
+    }, 
+    "title": "Tahirbuselik Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5d5ad617-0b04-4b34-aab7-d8d8eb8cf64a", 
+                    "name": "Kemani Riza Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "483c9261-1941-4bc8-a7e1-9101797bc893", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Tahirbuselik Pesrev"
+        }
+    ]
+}

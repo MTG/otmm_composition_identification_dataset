@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "05b91281-ec06-42ae-bbd1-9c0f1a64cede", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "hicazkar", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Hicazkar Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "1e952ccb-4cb1-4cb5-8d1e-d11e021a5c94", 
+                    "name": "Tiryaki", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "a4895cbb-e3d6-4de6-85b5-2aa343bfc72e", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicazkar Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "e4a32522-bec3-418b-a881-cb26a3147ed1", 
+            "name": "\u0130lhan Barut\u00e7u", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "9442e4cf-0cb3-4cb3-a060-77aa37392501", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "h\u00fcseyni", 
+        "usul": "muhammes"
+    }, 
+    "title": "Huseyni Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "81287063-9c1b-42f0-bf5a-8ecaf6a84d08", 
+                    "name": "Lavtaci Andon", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "db260504-980d-4a3b-8dff-90966c2989f6", 
+            "score": {
+                "name": "huseyni--pesrev--muhammes----lavtaci_andon", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huseyni Pesrev"
+        }
+    ]
+}

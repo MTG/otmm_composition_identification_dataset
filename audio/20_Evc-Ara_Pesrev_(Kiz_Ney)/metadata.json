@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "73b44063-d617-4bb7-8b78-9366a604230b", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "evcara"
+    }, 
+    "title": "Evc-Ara Pesrev (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "c2b0cb83-1893-426f-bb62-feda0bf1608f", 
+                    "name": "Dilhayat Kalfa", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "15ba9cc8-99fa-44c0-956b-7b4859af5576", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Evcara Pesrevi"
+        }
+    ]
+}

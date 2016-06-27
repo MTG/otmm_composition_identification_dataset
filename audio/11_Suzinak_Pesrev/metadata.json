@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "name": "Enver Mete Aslan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "665b61c1-b631-4053-a765-05477a947ed6", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "suzinak", 
+        "usul": "sofyan"
+    }, 
+    "title": "Suzinak Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "270f55e1-d479-47d0-832f-930a2d20f90a", 
+            "score": {
+                "name": "suzinak--pesrev--cenber----tatyos_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Suzinak Pesrev"
+        }
+    ]
+}

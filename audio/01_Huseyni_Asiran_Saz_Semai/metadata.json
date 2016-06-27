@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "6806c471-3adb-4415-b42a-d99f94253c0f", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "h\u00fcseynia\u015firan", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Huseyni Asiran Saz Semai", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fbcfc468-df4c-4c8d-a5e8-5262624935ad", 
+                    "name": "Kemani Aleksan Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "361881ab-2708-4760-9338-dc829fe64257", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huseyni Asiran Saz Semaisi"
+        }
+    ]
+}

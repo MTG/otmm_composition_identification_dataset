@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "681512de-c9e4-4125-8ba5-a8c76d8ec506", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "gerdaniye", 
+        "usul": "beref\u015fan"
+    }, 
+    "title": "Gerdaniye Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8beac5d4-4e27-477e-afe9-30848fdd6da0", 
+                    "name": "Suphi Ezgi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "b386fbab-4353-4291-bcf0-690272da3cd7", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Gerdaniye Pesrev"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "3bac5ae0-59ef-45e3-a352-11bf7ba6b53a", 
+            "name": "G\u00f6ksel Baktagir", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "4105a8bf-11f0-47ce-b2e9-ee522bf0e915", 
+            "name": "Emrullah \u015eeng\u00fcler", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "53c8a89a-3f75-40cb-b701-03fe3eef5f23", 
+            "name": "Selim G\u00fcler", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "name": "Volkan Y\u0131lmaz", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "percussion"
+            ], 
+            "mbid": "8a6ab24f-6849-40b7-92fa-03d23280e014", 
+            "name": "\u00dcmit Atalay", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "d695dfaa-01f8-4a16-a538-5ccbad58de19", 
+            "name": "Yurdal Tokcan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "1547f0de-a8a1-4599-8b9c-accccda50a2b", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "rast"
+    }, 
+    "title": "Rast Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "93f87369-7df2-4b61-b6e6-ea68358562ba", 
+                    "name": "Serif Celebi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "60de77ff-b93d-4fd9-8570-7d1ed2ab8fd2", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Rast Pesrev"
+        }
+    ]
+}

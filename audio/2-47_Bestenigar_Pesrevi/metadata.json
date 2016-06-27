@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "name": "Bekir Reha Sa\u011fba\u015f", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "fff3b901-c3eb-4c83-8f28-4d645e561f9c", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "bestenigar", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Bestenigar Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+                    "name": "Dede Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "deb4380a-f566-40e7-8927-a3899f4088cc", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Bestenigar Pesrev"
+        }
+    ]
+}

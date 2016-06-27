@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "91e1b4b3-26d9-44fa-893f-35fb4cccb213", 
+            "name": "Neva \u00d6zgen", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "0756f4f9-7fe2-48a8-b1c8-47ef8be9377f", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "u\u015f\u015fak", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Ussak Saz Semai", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ad9fb46e-eb95-4446-93ad-e3bf13c01a95", 
+            "score": {
+                "name": "ussak--sazsemaisi--aksaksemai----dede_salih_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ussak Sazsemaisi"
+        }
+    ]
+}

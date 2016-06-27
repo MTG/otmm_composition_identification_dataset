@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "name": "Volkan Y\u0131lmaz", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "9d0b294c-d40e-40e2-b991-3aa47f61dd95", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "hicaz-h\u00fcmayun"
+    }, 
+    "title": "Hicaz-Humayun Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "f908e8ae-fd20-4277-8fb8-7af008f0241a", 
+                    "name": "Veli Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "3cea4b37-3225-4bfc-9d8e-ffd990f56689", 
+            "score": {
+                "name": "hicaz-humayun--sazsemaisi--aksaksemai----veli_dede", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ]
+}

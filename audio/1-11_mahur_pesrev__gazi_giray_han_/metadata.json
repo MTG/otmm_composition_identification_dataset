@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "4a878936-03d3-42a1-8b69-bd42bed1344c", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "mahur", 
+        "usul": "d\u00fcyek"
+    }, 
+    "title": "Mahur Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8c386f72-3292-4345-a675-be187b414a5b", 
+                    "name": "Gazi Giray Han", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "3601efbc-b05b-4f54-ba07-584a842de72e", 
+            "score": {
+                "name": "mahur--pesrev--duyek----gazi_giray_han", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mahur Pesrevi"
+        }
+    ]
+}

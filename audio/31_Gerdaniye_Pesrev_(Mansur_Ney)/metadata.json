@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "be7b5f95-b975-40dc-b14e-91da1b5e31e0", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "gerdaniye", 
+        "usul": "beref\u015fan"
+    }, 
+    "title": "Gerdaniye Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8beac5d4-4e27-477e-afe9-30848fdd6da0", 
+                    "name": "Suphi Ezgi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "b386fbab-4353-4291-bcf0-690272da3cd7", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Gerdaniye Pesrev"
+        }
+    ]
+}

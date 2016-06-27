@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "3e5bbb95-bea4-440f-b94d-bfd766d21fb7", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "evcara", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Evcara Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "c2b0cb83-1893-426f-bb62-feda0bf1608f", 
+                    "name": "Dilhayat Kalfa", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "a094df54-addb-4d43-a06f-fcae06df9132", 
+            "score": {
+                "name": "evcara--sazsemaisi--aksaksemai----dilhayat_kalfa", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Evcara Sazsemaisi"
+        }
+    ]
+}

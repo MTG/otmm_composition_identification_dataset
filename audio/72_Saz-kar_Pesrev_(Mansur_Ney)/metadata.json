@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "4210f6dd-c1d7-4c3b-b921-55df5b3b6d3d", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "sazkar"
+    }, 
+    "title": "Saz-kar Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "853620fb-99c3-4b16-9c27-ee37c4e0a330", 
+                    "name": "Dimitri Cantemir", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "05caca05-6f1b-4e5c-aaff-5aa08a40b022", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sazkar Pesrev"
+        }
+    ]
+}

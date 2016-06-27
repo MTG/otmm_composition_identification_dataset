@@ -1,0 +1,55 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "162a0257-e1c8-4de8-a133-37a665ac9429", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "form1": "y\u00fcr\u00fcksemai", 
+        "makam": "ferahnak", 
+        "usul1": "y\u00fcr\u00fcksemai"
+    }, 
+    "title": "Ferahnak Pesrev / Sensiz Cihanda Asika Isret", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "45cdfb02-fe1c-4329-9a54-a7e409a3e4b1", 
+                    "name": "Zekai Dede Efendi", 
+                    "type": "composer"
+                }, 
+                {
+                    "mbid": "7ee09fb8-7da0-4546-b7b1-d86d8c38a475", 
+                    "name": "Nahifi", 
+                    "type": "lyricist"
+                }
+            ], 
+            "mbid": "38de0696-726d-4cf6-9893-4da2283887a9", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sensiz Cihanda Asika Isret"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "fcc3214c-4a42-4e97-ba32-91a4d7820594", 
+                    "name": "Tanburi Zeki Mehmet Aga", 
+                    "type": "writer"
+                }
+            ], 
+            "mbid": "60948aeb-6db6-4254-a9f5-b9ef766e92e7", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahnak Pesrev"
+        }
+    ]
+}

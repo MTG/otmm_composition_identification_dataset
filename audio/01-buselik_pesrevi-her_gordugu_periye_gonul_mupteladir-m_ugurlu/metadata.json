@@ -1,0 +1,50 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "0fc8fec4-7234-486f-9241-624e4c29c62d", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "form1": "beste", 
+        "makam": "buselik", 
+        "usul1": "hafif"
+    }, 
+    "title": "Buselik Pesrevi / Her Gordugu Periye Gonul Mupteladir", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "0797d1e6-638e-4da5-8fc6-ad442fcbcedf", 
+                    "name": "Buhurizade Mustafa Itri Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "eb99bd8c-8eb1-4a66-9f26-a8f92e265324", 
+            "score": {
+                "name": "buselik--beste--hafif--her_gordugu--itri", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Her Gordugu Periye Gonul Muptela Olur"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "", 
+                    "name": "", 
+                    "type": ""
+                }
+            ], 
+            "mbid": "f6f7b427-cbcd-45e8-b039-8a1d69538e8d", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Buselik Pesrev"
+        }
+    ]
+}

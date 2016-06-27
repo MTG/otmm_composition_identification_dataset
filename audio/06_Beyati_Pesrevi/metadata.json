@@ -1,0 +1,67 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "07ffc32a-830b-40bf-a5db-c164c65c66f3", 
+            "name": "Emre Erdal", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "bendir", 
+                "percussion"
+            ], 
+            "mbid": "6ea8e903-5a2c-4f46-9276-92c44b510156", 
+            "name": "Halil U\u011fur Kutlu", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "a6592b6f-a8d8-41a1-8b9e-044dc9e69805", 
+            "name": "Ali Sar\u0131g\u00fcl", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "a9e984a5-3452-4302-9083-ebc9b117626a", 
+            "name": "Yavuzhan Erdem", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "d348d04f-d954-4555-b97c-61cab492a332", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "beyati", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Beyati Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "a923198e-2d5a-4e97-b313-42084e5a150a", 
+                    "name": "Neyzen Emin Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Beyati Pesrevi"
+        }
+    ]
+}

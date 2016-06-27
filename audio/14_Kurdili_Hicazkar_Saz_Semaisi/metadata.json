@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "075a7d4e-ba96-48a8-ad30-f41dd0a7e556", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "k\u00fcrdilihicazkar"
+    }, 
+    "title": "Kurdili-Hicazkar Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+                    "name": "Necdet Yasar", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "09262d2c-d019-45a5-a584-7f56f194562c", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Saz Semaisi"
+        }
+    ]
+}

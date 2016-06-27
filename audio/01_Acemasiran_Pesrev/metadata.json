@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "113397a6-041e-4b0f-8019-c3e630374735", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "acema\u015firan", 
+        "usul": "d\u00fcyek"
+    }, 
+    "title": "Acemasiran Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4a22433d-c2b0-4aca-b5d0-ff757cc05be1", 
+                    "name": "Angelos", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "fe7c0150-4dc0-41ba-9251-7f46b847b00e", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemasiran Pesrev"
+        }
+    ]
+}

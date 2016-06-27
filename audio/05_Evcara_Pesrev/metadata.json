@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "91e1b4b3-26d9-44fa-893f-35fb4cccb213", 
+            "name": "Neva \u00d6zgen", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "53c12d6d-0277-4aee-a8ff-b11423d1dd9b", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "evcara", 
+        "usul": "\u00e7ifted\u00fcyek"
+    }, 
+    "title": "Evcara Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "c2b0cb83-1893-426f-bb62-feda0bf1608f", 
+                    "name": "Dilhayat Kalfa", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "15ba9cc8-99fa-44c0-956b-7b4859af5576", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Evcara Pesrevi"
+        }
+    ]
+}

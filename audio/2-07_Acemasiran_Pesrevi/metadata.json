@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "94302cb3-49f0-4d46-bd4b-72c69d705360", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "acema\u015firan"
+    }, 
+    "title": "Acemasiran Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4a1c9cf2-2f62-44df-b432-8cf748328b44", 
+                    "name": "Ferit Sidal", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "637e7207-802a-45f7-ba88-02d9f450e0eb", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemasiran Pesrevi"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "29d61834-995b-4a7a-918f-dece85cd76c2", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u015fehnaz", 
+        "usul": "\u00e7ifted\u00fcyek"
+    }, 
+    "title": "Sehnaz Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "625748ed-b240-48c5-bb7c-ef709dd30cc4", 
+                    "name": "Kemani Ali Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
+            "score": {
+                "name": "sehnaz--pesrev--zencir----kemani_ali_aga", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sehnaz Pesrev"
+        }
+    ]
+}

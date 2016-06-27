@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "d445c964-b358-477f-9eee-5a7724a02257", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "h\u00fczzam"
+    }, 
+    "title": "Huzzam Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "54f879f1-8114-48b7-b892-0d5594c4783f", 
+                    "name": "Tanburi Buyuk Osman Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "23589d9c-dfd1-47cf-ad3e-9fd0021d7c73", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Sazsemaisi"
+        }
+    ]
+}

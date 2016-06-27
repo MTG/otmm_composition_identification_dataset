@@ -1,0 +1,68 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "viola da gamba"
+            ], 
+            "mbid": "0ffd23ab-7948-4ed0-bc8e-1c8b99105b3f", 
+            "name": "Amy Brodo", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "bendir"
+            ], 
+            "mbid": "9238bbf6-b7c2-41c7-889e-299983dbca79", 
+            "name": "Linda Burman-Hall", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "lute"
+            ], 
+            "mbid": "bc3cb127-9165-43d8-a7b1-a0e9152c8fe0", 
+            "name": "Mesut \u00d6zgen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "ca437e5a-8dfa-4ee7-96b0-de69774365dd", 
+            "name": "David Wilson", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "cc37a0fe-8160-45e6-82b4-7a8f937b024e", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "rast", 
+        "usul": "beref\u015fan"
+    }, 
+    "title": "Pesrev In Makam Rast/ Usul Berefsan", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "853620fb-99c3-4b16-9c27-ee37c4e0a330", 
+                    "name": "Dimitri Cantemir", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "f5b9ece7-1865-458d-af0d-f810a1d54514", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Rast Pesrev"
+        }
+    ]
+}

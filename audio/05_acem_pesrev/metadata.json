@@ -1,0 +1,49 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "komuz"
+            ], 
+            "mbid": "04b11cfe-d9cc-4350-852f-4212e2e358f1", 
+            "name": "Adem Tosuno\u011flu", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "harp"
+            ], 
+            "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
+            "name": "Fikret Karakaya", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "41bdcca8-ef98-4541-a72d-5141ed6f77ac", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "acem"
+    }, 
+    "title": "Solak-zade", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "", 
+                    "name": "", 
+                    "type": ""
+                }
+            ], 
+            "mbid": "6192df39-4c69-46a1-a734-043a9a5d687c", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Solak-zade"
+        }
+    ]
+}

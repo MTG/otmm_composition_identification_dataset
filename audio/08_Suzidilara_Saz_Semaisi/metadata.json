@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "c8b02816-291b-49b0-8623-31a92eef4567", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "suzidilara"
+    }, 
+    "title": "Suzidilara Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "45ae0a7a-6abe-453c-9b09-984415379f91", 
+            "score": {
+                "name": "suzidilara--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Suzidilara Saz Semaisi"
+        }
+    ]
+}

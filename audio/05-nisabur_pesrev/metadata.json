@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "9a74abf6-deb7-486a-a047-d26a29b98d6a", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "ni\u015fabur", 
+        "usul": "darb-\u0131 fetih"
+    }, 
+    "title": "Nisabur Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "f731ccc4-e22a-43af-a747-64213329e088", 
+                    "name": "[anonymous]", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "a01e922a-9133-46a7-b583-a4ce79a69ce9", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nisabur Pesrev"
+        }
+    ]
+}

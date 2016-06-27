@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
+            "name": "Cevdet \u00c7a\u011fla", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "37ea753c-ae08-45be-a580-516f76ba4cbe", 
+            "name": "Neyzen \u0130hsan Aziz Bey", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "b2415292-1cf4-4dc9-beea-3c350aba930b", 
+            "name": "Hasan Ferit Alnar", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "e3aa2c81-476b-4bee-b835-94c0c208de09", 
+            "name": "Mehmed Fahri Kopuz", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "ce142c3d-903c-4c80-8918-d10dc5fb6113", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "h\u00fcseyni", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Huseyni Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ecbd1847-79bd-4083-b9e5-833c90e6d8cc", 
+            "score": {
+                "name": "huseyni--sazsemaisi--aksaksemai----tatyos_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huseyni Sazsemaisi"
+        }
+    ]
+}

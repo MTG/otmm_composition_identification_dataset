@@ -1,0 +1,43 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "91643742-9dd8-4aaf-a643-25f60336e1e9", 
+            "name": "U\u011fur Onuk", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "piano"
+            ], 
+            "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+            "name": "Erkan Y\u00fcksel", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "7521d969-17cc-47fc-bcf5-4d8b9183ec6d", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "suzidil"
+    }, 
+    "title": "Suzidil Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "64b8dcaa-03a4-48e8-919f-362ebb57809a", 
+                    "name": "Tanburi Ali Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "40300628-d472-4232-81ce-df599f4fbacc", 
+            "score": {
+                "name": "suzidil--pesrev--devrikebir----tanburi_ali_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Suzidil Pesrev"
+        }
+    ]
+}

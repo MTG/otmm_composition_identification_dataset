@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "ney"
+            ], 
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "name": "Murat Salim Toka\u00e7", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "014db042-f0c4-49a8-a859-83403c7e6f45", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "h\u00fczzam", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Huzzam Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "198bfe3b-6111-4b51-aacd-e179b4d1309c", 
+                    "name": "Cemil Ozbal", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8d19ea49-a3f0-4c59-a5e1-5ec8ca87478a", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Sazsemaisi"
+        }
+    ]
+}

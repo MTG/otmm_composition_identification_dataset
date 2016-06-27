@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "name": "Nevzat S\u00fcmer", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "3f2874b7-9c1f-46c3-a64e-e654d9bc58e5", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "saba", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Saba Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "85603cc9-8048-4533-a4c2-b66082c1a2cd", 
+                    "name": "Gevheri Osmanoglu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "f6fb93a8-0f8f-4b4e-8472-62054cb4c340", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Saba Sazsemaisi"
+        }
+    ]
+}

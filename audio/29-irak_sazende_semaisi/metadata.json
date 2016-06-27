@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "dc9789fb-53b8-4580-93bc-8672f3ac4c66", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u0131rak", 
+        "usul": "y\u00fcr\u00fcksemai"
+    }, 
+    "title": "Irak Sazende Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "f731ccc4-e22a-43af-a747-64213329e088", 
+                    "name": "[anonymous]", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "300eb54a-5fd7-49be-85ac-192577e96940", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Irak Sazsemaisi"
+        }
+    ]
+}

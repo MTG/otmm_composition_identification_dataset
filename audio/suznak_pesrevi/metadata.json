@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "a93b325d-41e1-4704-b9da-8ec5a6d1e584", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "suzinak"
+    }, 
+    "title": "Suzinak Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "41b5769b-400d-471d-83b9-ce87a8f01dc3", 
+                    "name": "Tanburi Emin Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "31385d3e-7014-485e-b77e-943beb8f9e29", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Suzinak Pesrev"
+        }
+    ]
+}

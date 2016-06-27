@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "ef3b1912-d6d5-4041-bd8b-14b82b2399fa", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "suzidil", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Suzidil Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "64b8dcaa-03a4-48e8-919f-362ebb57809a", 
+                    "name": "Tanburi Ali Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "40300628-d472-4232-81ce-df599f4fbacc", 
+            "score": {
+                "name": "suzidil--pesrev--devrikebir----tanburi_ali_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Suzidil Pesrev"
+        }
+    ]
+}

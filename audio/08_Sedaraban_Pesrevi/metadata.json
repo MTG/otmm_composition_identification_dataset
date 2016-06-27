@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "65e0df9a-64a6-450c-acae-009a8c725661", 
+            "name": "Necip G\u00fclses", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "name": "Kudsi Erg\u00fcner", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "9300ce7f-ba52-4dd9-84cd-5314c0077170", 
+            "name": "Hakan G\u00fcng\u00f6r", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "percussion"
+            ], 
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "name": "Vahit Anadolu", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "97be5bdd-cef0-4103-bbb7-bff77d6b0a30", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u015fedaraban", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Sedaraban Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "83291c8a-4ef1-4ffc-8b50-3fc03890f5a4", 
+            "score": {
+                "name": "sedaraban--pesrev--fahte----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sedaraban Pesrevi"
+        }
+    ]
+}

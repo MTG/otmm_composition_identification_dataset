@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "name": "Bekir Reha Sa\u011fba\u015f", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "df4f54f0-f049-4a83-8450-dcc76f2828e5", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "ferahnak", 
+        "usul": "zencir"
+    }, 
+    "title": "Ferahnak Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fcc3214c-4a42-4e97-ba32-91a4d7820594", 
+                    "name": "Tanburi Zeki Mehmet Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "bf231613-3aea-44e1-bd86-6c9beeaa18f7", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahnak Pesrev"
+        }
+    ]
+}

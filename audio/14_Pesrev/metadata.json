@@ -1,0 +1,76 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "mbid": "0520fcb2-3f11-45a9-a0bd-7f5845066e78", 
+            "name": "Turgay \u00d6z\u00fcfler", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "30380155-5974-4cf5-aed9-60371470005d", 
+            "name": "Y\u0131ld\u0131ran G\u00fcz", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "mbid": "3411c847-4801-4a19-893c-521e5719cf44", 
+            "name": "\u015e\u00fckr\u00fc Kabac\u0131", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "6f063869-ecd9-4ceb-9800-42e96ffbd4a7", 
+            "name": "G\u00f6ksel Kartal", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "761c091c-e5f3-4856-80f9-3a0c5a07bc25", 
+            "name": "\u00d6mer \u00d6cal", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "percussion"
+            ], 
+            "mbid": "d78b0d8d-d207-4ceb-993d-c270caa478f3", 
+            "name": "Seyhun \u00c7elik", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "dedd994f-3087-4857-b929-fccd574754e1", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "segah", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "463196f6-9604-49e6-afa2-f6bde8b1c1a9", 
+                    "name": "Neyzen Yusuf Pasa", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d", 
+            "score": {
+                "name": "segah--pesrev--devrikebir----neyzen_yusuf_pasa", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Segah Pesrev"
+        }
+    ]
+}

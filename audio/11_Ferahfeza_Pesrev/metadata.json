@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "name": "Necati \u00c7elik", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "540d41c8-4d08-4461-8e81-2733998d7dec", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "ferahfeza", 
+        "usul": "muhammes"
+    }, 
+    "title": "Ferahfeza Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "6f2b316f-f951-4453-9233-2b62e16fcd05", 
+            "score": {
+                "name": "ferahfeza--pesrev--muhammes----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahfeza Pesrev"
+        }
+    ]
+}

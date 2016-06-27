@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "0176d5f9-fec6-4346-9fd4-80d792732d18", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u015fehnaz"
+    }, 
+    "title": "Sehnaz Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8c90679b-cc2a-453f-a3c2-19976ffaa367", 
+                    "name": "Kemenceci Nikolaki", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "71710555-64c8-4293-aa85-edf072abbdbe", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sehnaz Sazsemaisi"
+        }
+    ]
+}

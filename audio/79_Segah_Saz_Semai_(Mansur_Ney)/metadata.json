@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "7840b633-ba9e-4545-b156-1dfb6a659368", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "segah"
+    }, 
+    "title": "Segah Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5f7c5fc5-0958-49e3-8e17-d638ddd30938", 
+                    "name": "Sadi Isilay", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "87256297-1da2-41f3-851b-cb71bbff69a6", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Segah Sazsemaisi"
+        }
+    ]
+}

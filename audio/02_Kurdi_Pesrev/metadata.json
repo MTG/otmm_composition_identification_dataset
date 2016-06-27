@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "ac0c5089-2a4d-49ac-9cd1-b532484e78cc", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "k\u00fcrdi"
+    }, 
+    "title": "Kurdi Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "aa897fb3-9e02-42d7-8d9c-f4751dd15ef3", 
+                    "name": "Sehzade Sultan Korkud", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "a850baea-d661-404d-8715-f4b37e5d49fd", 
+            "score": {
+                "name": "kurdi--pesrev--devrikebir----sehzade_korkut", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdi Pesrevi"
+        }
+    ]
+}

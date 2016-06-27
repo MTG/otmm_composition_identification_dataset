@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "name": "Volkan Y\u0131lmaz", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "daced1cb-7889-4662-9b71-36e33aae548c", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "u\u015f\u015fak"
+    }, 
+    "title": "Ussak Saz Semai (Mustahsen Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ad9fb46e-eb95-4446-93ad-e3bf13c01a95", 
+            "score": {
+                "name": "ussak--sazsemaisi--aksaksemai----dede_salih_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ussak Sazsemaisi"
+        }
+    ]
+}

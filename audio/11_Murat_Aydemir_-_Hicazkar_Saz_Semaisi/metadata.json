@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "66e587cc-f484-4d25-a727-ca0373dd76ff", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "hicazkar"
+    }, 
+    "title": "Hicazkar Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3", 
+            "score": {
+                "name": "hicazkar--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicazkar Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "e3a22684-d237-48b5-ac27-e9b77ddd3c18", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "ferahfeza", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Ferah-Feza Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
+                    "name": "Serif Muhittin Targan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "80a81c87-eb6e-40dc-b69a-e0712b4374f2", 
+            "score": {
+                "name": "ferahfeza--sazsemaisi--aksaksemai----serif_muhittin_targan", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahfeza Sazsemaisi"
+        }
+    ]
+}

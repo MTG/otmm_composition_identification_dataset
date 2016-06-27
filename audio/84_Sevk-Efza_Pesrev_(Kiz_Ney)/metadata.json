@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "247c62ce-e65e-4383-910f-db14b5e08a4f", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u015fevk'efza"
+    }, 
+    "title": "Sevk-Efza Pesrev (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "03ee7b0d-3818-4236-9cfb-14810f310a9e", 
+                    "name": "Seyh Said Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "cb90d76f-e9da-485a-8adb-dc8eca076536", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sevkefza Pesrev"
+        }
+    ]
+}

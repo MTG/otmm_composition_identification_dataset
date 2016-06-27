@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "447aeaee-0f26-42e8-b704-8563f067e6bf", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "bestenigar", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Bestenigar Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b38d3012-30bf-4bef-b8e2-e1a7d736ff13", 
+                    "name": "Numan Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "aa62a6be-c7a0-4bc7-9931-4190af588d07", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Bestenigar Saz Semai"
+        }
+    ]
+}

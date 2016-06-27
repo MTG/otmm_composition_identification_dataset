@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "2c5a3a19-eba5-4f04-afb1-e3f7bc972971", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u015fehnaz"
+    }, 
+    "title": "Sehnaz Saz Semai", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8c90679b-cc2a-453f-a3c2-19976ffaa367", 
+                    "name": "Kemenceci Nikolaki", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "71710555-64c8-4293-aa85-edf072abbdbe", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sehnaz Sazsemaisi"
+        }
+    ]
+}

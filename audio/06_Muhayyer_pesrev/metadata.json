@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "4f7a2ecb-a3ab-49ba-87d7-7e9393b86224", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "muhayyer", 
+        "usul": "devrikebir"
+    }, 
+    "title": "Muhayyer pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "608def1b-d955-46e0-acde-1e3190d4f49b", 
+            "score": {
+                "name": "muhayyer--pesrev--devrikebir----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Muhayyer Pesrev"
+        }
+    ]
+}

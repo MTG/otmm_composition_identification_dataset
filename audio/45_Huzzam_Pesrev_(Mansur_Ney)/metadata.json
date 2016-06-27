@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "f2ce8ec5-8b2b-4f7d-92c2-e9dfd5efe9e4", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "h\u00fczzam"
+    }, 
+    "title": "Huzzam Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fcc1e11e-97cf-41a3-9d66-76a944c96968", 
+                    "name": "Seyfettin Osmanoglu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "852232f7-e223-4561-9a22-313eb858c469", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Pesrev"
+        }
+    ]
+}

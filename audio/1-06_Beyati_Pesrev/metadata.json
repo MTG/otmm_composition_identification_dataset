@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "604380e4-1979-4b7f-8187-e3e17d66df1a", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "beyati", 
+        "usul": "darb-\u0131 fetih"
+    }, 
+    "title": "Beyati Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "93588cf7-65d3-47ed-883b-2d740b971b3a", 
+                    "name": "Tanburi Isak Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "f262511a-6aef-4c52-a59d-f4b1085b536a", 
+            "score": {
+                "name": "beyati--pesrev--darbifetih----tanburi_isak", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Beyati Pesrevi"
+        }
+    ]
+}

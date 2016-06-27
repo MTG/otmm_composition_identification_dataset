@@ -1,0 +1,13 @@
+{
+	"scoreInformed": {
+		"OctaveWrapped": 0,
+		"Method": {
+			"Location": "repetition",
+			"Duration": "all",
+			"TempoMethod": "none"
+		},
+		"Citation": "Senturk, S., Gulati, S., & Serra, X. Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of ISMIR, 2013.",
+		"Value": 254.1819018,
+		"Unit": "Hz"
+	}
+}

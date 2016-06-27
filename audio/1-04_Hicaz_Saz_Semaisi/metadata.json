@@ -1,0 +1,46 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "name": "\u00d6zer \u00d6zel", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "471199f8-29ef-4fda-bc78-c811aa8825ea", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "hicaz", 
+        "usul": "aksaksemai", 
+        "usul1": "y\u00fcr\u00fcksemai", 
+        "usul2": "y\u00fcr\u00fcksemai"
+    }, 
+    "title": "Hicaz Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "1ab5a8c5-4693-43e4-809d-353990423938", 
+                    "name": "Sultan III. Selim", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "5aa41d4c-c92b-47ee-9eaa-5c170e14de8f", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicaz Saz Semaisi"
+        }
+    ]
+}

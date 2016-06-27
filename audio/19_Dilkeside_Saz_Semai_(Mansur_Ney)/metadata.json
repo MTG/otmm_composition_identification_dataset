@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "beceab93-f7bd-4b6f-af27-49e178d5c830", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "dilke\u015fide"
+    }, 
+    "title": "Dilkeside Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fedc168c-c716-4fa0-a093-7615cfef2d04", 
+                    "name": "Neyzen Rasid Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "57432107-6e6f-4959-b358-16279dd73b78", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Dilkeside Saz Semai"
+        }
+    ]
+}

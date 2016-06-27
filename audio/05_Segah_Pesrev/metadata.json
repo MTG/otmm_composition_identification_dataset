@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "d858c208-8ab3-4588-b1d7-f54d24a72f20", 
+            "name": "Turgut \u00d6z\u00fcfler", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "fbd684b5-7204-4e39-9286-ad4ae5eb481b", 
+            "name": "Ba\u015far Dikici", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "e49f33b8-cf8a-4ca9-88cf-9a994dbad1c0", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "segah", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Segah Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "463196f6-9604-49e6-afa2-f6bde8b1c1a9", 
+                    "name": "Neyzen Yusuf Pasa", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d", 
+            "score": {
+                "name": "segah--pesrev--devrikebir----neyzen_yusuf_pasa", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Segah Pesrev"
+        }
+    ]
+}

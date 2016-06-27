@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "2227c763-9039-4aff-a4bc-8e96ab74bdfd", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "segah"
+    }, 
+    "title": "Segah Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "d79edba2-8490-4b44-98bf-90090aa762b3", 
+                    "name": "Tanburi Kucuk Osman Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "92dacf95-1964-49bd-84dd-59349d7ea3aa", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Segah Pesrev"
+        }
+    ]
+}

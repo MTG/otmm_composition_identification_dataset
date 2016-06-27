@@ -1,0 +1,49 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "komuz"
+            ], 
+            "mbid": "04b11cfe-d9cc-4350-852f-4212e2e358f1", 
+            "name": "Adem Tosuno\u011flu", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "harp"
+            ], 
+            "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
+            "name": "Fikret Karakaya", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "55b50b6a-8f5d-438e-9304-6f5061ac161c", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "mahur"
+    }, 
+    "title": "Mahur Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "", 
+                    "name": "", 
+                    "type": ""
+                }
+            ], 
+            "mbid": "e50a1551-5f05-4b44-864f-87237d0f4642", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mahur Pesrev"
+        }
+    ]
+}

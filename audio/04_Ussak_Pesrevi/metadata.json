@@ -1,0 +1,43 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "deeac144-7560-4009-8419-604c5904d8ff", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "u\u015f\u015fak"
+    }, 
+    "title": "Ussak Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "54f879f1-8114-48b7-b892-0d5594c4783f", 
+                    "name": "Tanburi Buyuk Osman Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "0984224d-2f97-484f-a7b7-e6f78884f30f", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ussak Pesrev"
+        }
+    ]
+}

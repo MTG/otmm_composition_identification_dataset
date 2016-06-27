@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "5ed8e36f-50fa-4912-b380-e0a2549ca606", 
+            "name": "Alper Uzkur", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "d858c208-8ab3-4588-b1d7-f54d24a72f20", 
+            "name": "Turgut \u00d6z\u00fcfler", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "e26140e6-0b60-4849-8143-c504a96a0139", 
+            "name": "Hasan Nar", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "fbd684b5-7204-4e39-9286-ad4ae5eb481b", 
+            "name": "Ba\u015far Dikici", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "c4bee96d-4ceb-4cd8-88ad-718eb8ee8b18", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "h\u00fcseyni", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Huseyni Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "81287063-9c1b-42f0-bf5a-8ecaf6a84d08", 
+                    "name": "Lavtaci Andon", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "53b4d534-9bd1-440c-a58a-a2ae11731b23", 
+            "score": {
+                "name": "huseyni--sazsemaisi--aksaksemai----lavtaci_andon", 
+                "type": "symbTr_v1"
+            }, 
+            "title": "Huseyni Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "83359afb-6c01-4708-9cc4-4f70d78661b7", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u015fehnaz"
+    }, 
+    "title": "Sehnaz Pesrev (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "625748ed-b240-48c5-bb7c-ef709dd30cc4", 
+                    "name": "Kemani Ali Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
+            "score": {
+                "name": "sehnaz--pesrev--zencir----kemani_ali_aga", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sehnaz Pesrev"
+        }
+    ]
+}

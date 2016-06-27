@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "e82ecd55-4d36-4c05-8fe0-d697db1cc9b5", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "evcara"
+    }, 
+    "title": "Evc-Ara Saz Semai (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "c2b0cb83-1893-426f-bb62-feda0bf1608f", 
+                    "name": "Dilhayat Kalfa", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "a094df54-addb-4d43-a06f-fcae06df9132", 
+            "score": {
+                "name": "evcara--sazsemaisi--aksaksemai----dilhayat_kalfa", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Evcara Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "348c221e-f1ab-400a-832f-2ef16e724e71", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "zavil", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Zavil Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "ddd9f987-7d74-4579-9a91-950dc11ce35f", 
+                    "name": "Arif Mehmed Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "5a4675a8-146f-4d40-9213-1ed8f47bd596", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Zavil Sazsemaisi"
+        }
+    ]
+}

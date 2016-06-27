@@ -1,0 +1,43 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "91643742-9dd8-4aaf-a643-25f60336e1e9", 
+            "name": "U\u011fur Onuk", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "piano"
+            ], 
+            "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+            "name": "Erkan Y\u00fcksel", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "d406b08a-f619-4713-af68-c7ddbcfa1f6b", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "rast"
+    }, 
+    "title": "Rast Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "a3813dcb-4560-495d-ba4d-c64afd39624e", 
+                    "name": "Benli Hasan Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "5c4caffa-01f6-40a3-82ba-5e60b788415c", 
+            "score": {
+                "name": "rast--sazsemaisi--aksaksemai----benli_hasan_aga", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Rast Saz Semaisi"
+        }
+    ]
+}

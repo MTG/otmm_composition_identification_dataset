@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "a1b5bc02-6091-4030-b8b6-16f134c5385b", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "sazkar"
+    }, 
+    "title": "Saz-kar Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b38d3012-30bf-4bef-b8e2-e1a7d736ff13", 
+                    "name": "Numan Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "bbb28168-fdf1-4e85-8d4e-759f8ad8dcb1", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Saz-kar Sazsemaisi"
+        }
+    ]
+}

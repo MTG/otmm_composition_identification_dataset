@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "name": "Volkan Y\u0131lmaz", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "7d9c0726-a4ee-403b-87ee-fb43af0e8a87", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "tarz-\u0131-nevin"
+    }, 
+    "title": "Tarz-i Nevin Saz Semai (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "870bc0c9-8cdd-4baa-a874-83cfb92097f6", 
+                    "name": "Dellalzade Haci Ismail Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "fda651e6-4e89-4ad3-b533-92cd37140fc1", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Tarz-i-Nevin Sazsemaisi"
+        }
+    ]
+}

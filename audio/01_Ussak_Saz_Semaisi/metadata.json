@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "9a7d391f-90a6-4f2d-a0d2-5e6a5365b149", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "u\u015f\u015fak"
+    }, 
+    "title": "Ussak Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "a6775723-69b6-4997-82da-bf230b1f8655", 
+                    "name": "Neyzen Aziz Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "e7924b0d-c8a0-4b4a-b253-8eec898eac1e", 
+            "score": {
+                "name": "ussak--sazsemaisi--aksaksemai----neyzen_aziz_dede", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ussak Saz Semaisi"
+        }
+    ]
+}

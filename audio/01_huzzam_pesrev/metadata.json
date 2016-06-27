@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "91e1b4b3-26d9-44fa-893f-35fb4cccb213", 
+            "name": "Neva \u00d6zgen", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "54b04664-e30b-405f-afa2-af1c80187b28", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "h\u00fczzam", 
+        "usul": "muhammes"
+    }, 
+    "title": "Huzzam Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fcc1e11e-97cf-41a3-9d66-76a944c96968", 
+                    "name": "Seyfettin Osmanoglu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "852232f7-e223-4561-9a22-313eb858c469", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Pesrev"
+        }
+    ]
+}

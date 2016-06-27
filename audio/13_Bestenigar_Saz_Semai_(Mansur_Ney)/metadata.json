@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "221e5475-a79d-4995-8968-d7dc52dc387b", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "bestenigar"
+    }, 
+    "title": "Bestenigar Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b38d3012-30bf-4bef-b8e2-e1a7d736ff13", 
+                    "name": "Numan Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "aa62a6be-c7a0-4bc7-9931-4190af588d07", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Bestenigar Saz Semai"
+        }
+    ]
+}

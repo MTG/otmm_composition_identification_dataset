@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "732ece1c-3464-4a22-811b-27829a9ea793", 
+            "name": "Vedia Tun\u00e7\u00e7eki\u00e7", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "c0f09905-437d-483c-9edb-0fa98cfdd0bf", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "yegah", 
+        "usul": "muhammes"
+    }, 
+    "title": "Yegah Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "54f879f1-8114-48b7-b892-0d5594c4783f", 
+                    "name": "Tanburi Buyuk Osman Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "fd0462f0-0450-46ec-934a-5f63d0040bdc", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Yegah Pesrev"
+        }
+    ]
+}

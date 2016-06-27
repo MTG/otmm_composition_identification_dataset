@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "f0e1bdbe-a53a-4698-bb63-e24be03364c8", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "hicazkar", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Hicazkar Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "2eb3e579-dae8-490f-9251-c604660f9f0c", 
+                    "name": "Kemal Niyazi Seyhun", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "af08dbf5-4d3d-4567-b224-79b01a26b17d", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicazkar Sazsemaisi"
+        }
+    ]
+}

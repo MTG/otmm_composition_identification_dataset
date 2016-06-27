@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "name": "Fahrettin \u00c7imenli", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "fb34b4d9-7087-490f-b036-a0c69b53bed8", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u015fehnaz", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Sehnaz Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8c90679b-cc2a-453f-a3c2-19976ffaa367", 
+                    "name": "Kemenceci Nikolaki", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "71710555-64c8-4293-aa85-edf072abbdbe", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sehnaz Sazsemaisi"
+        }
+    ]
+}

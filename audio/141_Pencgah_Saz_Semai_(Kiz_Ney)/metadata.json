@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai", 
+                "solo"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "97dae289-6968-4d00-bb49-56a0d7110ca7", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "pen\u00e7gah"
+    }, 
+    "title": "Pencgah Saz Semai (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "853620fb-99c3-4b16-9c27-ee37c4e0a330", 
+                    "name": "Dimitri Cantemir", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ee1af463-0d35-4fc6-b4a2-4399ae9568b9", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Pencgah Sazsemaisi"
+        }
+    ]
+}

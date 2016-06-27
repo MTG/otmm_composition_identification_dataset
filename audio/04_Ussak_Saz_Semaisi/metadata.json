@@ -1,0 +1,37 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "solo", 
+                "tanbur"
+            ], 
+            "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
+            "name": "Hulusi Babal\u0131k", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "457d9db5-b3a0-4663-b46f-2ed0c6ce5eb0", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "u\u015f\u015fak", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Ussak Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ad9fb46e-eb95-4446-93ad-e3bf13c01a95", 
+            "score": {
+                "name": "ussak--sazsemaisi--aksaksemai----dede_salih_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ussak Sazsemaisi"
+        }
+    ]
+}

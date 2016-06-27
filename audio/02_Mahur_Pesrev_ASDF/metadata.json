@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "name": "Enver Mete Aslan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "02a2e9b3-9054-43e1-a25f-d820dbce5f0e", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "mahur", 
+        "usul": "muhammes"
+    }, 
+    "title": "Mahur Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "423ec97c-d4bd-4340-81da-625b1934021b", 
+            "score": {
+                "name": "mahur--pesrev--muhammes----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mahur Pesrevi"
+        }
+    ]
+}

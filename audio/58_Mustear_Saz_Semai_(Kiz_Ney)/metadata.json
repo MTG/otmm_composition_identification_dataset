@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "9d0722d4-ac48-4a59-bf95-50f1187b69e9", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "m\u00fcstear"
+    }, 
+    "title": "Mustear Saz Semai (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "320fc06a-5c3c-4c0a-9d35-18765952cf31", 
+                    "name": "Neyzen Huseyin Fahreddin Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "c2220d2b-a43b-4cfb-9564-e027b654cf6b", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mustear Sazsemaisi"
+        }
+    ]
+}

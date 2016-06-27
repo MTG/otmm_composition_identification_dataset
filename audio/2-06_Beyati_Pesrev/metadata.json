@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "7586560f-2457-485e-a099-41b45e9af5ab", 
+            "name": "\u015eevki Bey", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "11e0e9e9-bc02-4db7-b762-53f6cbe15c23", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "beyati", 
+        "usul": "hafif"
+    }, 
+    "title": "Beyati Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fcc1e11e-97cf-41a3-9d66-76a944c96968", 
+                    "name": "Seyfettin Osmanoglu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "831d4801-0562-491f-922b-f6f987d19b3d", 
+            "score": {
+                "name": "beyati--pesrev--hafif----seyfettin_osmanoglu", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Beyati Pesrev"
+        }
+    ]
+}

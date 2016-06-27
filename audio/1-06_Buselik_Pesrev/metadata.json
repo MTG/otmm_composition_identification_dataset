@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "9e71e0c3-a1bd-4aae-8e64-c8292d56b7cf", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "buselik", 
+        "usul": "devr-i revan"
+    }, 
+    "title": "Buselik Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "853620fb-99c3-4b16-9c27-ee37c4e0a330", 
+                    "name": "Dimitri Cantemir", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "b22c1476-70c9-48f6-b6a2-8f6ddc926a05", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Buselik Pesrev"
+        }
+    ]
+}

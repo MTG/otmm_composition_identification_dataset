@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "5007624c-f676-4661-9378-03d89d8f7351", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "rast"
+    }, 
+    "title": "Rast Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "", 
+                    "name": "", 
+                    "type": ""
+                }
+            ], 
+            "mbid": "7bb04851-6b61-417c-b61c-97f69c95bc68", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Rast Pesrevi"
+        }
+    ]
+}

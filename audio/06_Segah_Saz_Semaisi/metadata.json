@@ -1,0 +1,37 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "solo", 
+                "tanbur"
+            ], 
+            "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
+            "name": "Hulusi Babal\u0131k", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "2a3e1a6d-ab82-4a46-ae8b-0fb057b53de0", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "segah", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Segah Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "2a8a9c73-e177-46bf-9d4e-dac5f44dd9f7", 
+                    "name": "Osman Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "611c119a-62a0-4238-bb18-9ffe50d84d8b", 
+            "score": {
+                "name": "segah--sazsemaisi--aksaksemai----nayi_osman_dede", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Segah Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
+            "name": "Cevdet \u00c7a\u011fla", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "38718d2e-ffbb-47d2-83e4-451c924cb8f2", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "k\u00fcrdilihicazkar", 
+        "usul": "a\u011f\u0131rd\u00fcyek"
+    }, 
+    "title": "Kurdilihicazkar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "e3d3f39f-f597-41c6-858d-e04b6ecd65c3", 
+                    "name": "Vasilaki Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
+            "score": {
+                "name": "kurdilihicazkar--pesrev--agirduyek----vasilaki", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Pesrev"
+        }
+    ]
+}

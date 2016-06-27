@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "cfe9bb38-e2dc-4275-a98d-d12386bd26a8", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "nikriz"
+    }, 
+    "title": "Nikriz Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "e9123b97-0dad-4092-96c7-fc7b5790f711", 
+                    "name": "Ali Ufki", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "abbbc04a-e02e-4881-b7ec-7a0806ce4800", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nikriz Pesrev"
+        }
+    ]
+}

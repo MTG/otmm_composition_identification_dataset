@@ -1,0 +1,43 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "5c20750a-f00d-4cf1-8b76-d2f2243e3ceb", 
+            "name": "Zekai S\u00fcer", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "74627c36-d382-411e-8a05-38e1d8e86c08", 
+            "name": "Erol Sayan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "c5080119-f978-4787-be03-47b066d504f9", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u015fedaraban"
+    }, 
+    "title": "Sedaraban Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "74627c36-d382-411e-8a05-38e1d8e86c08", 
+                    "name": "Erol Sayan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "23f79938-9062-4686-9a51-3cf30425404d", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sedaraban Saz Semaisi"
+        }
+    ]
+}

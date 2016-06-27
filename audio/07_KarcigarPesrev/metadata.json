@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "279adb4a-a274-4f81-b679-48a7f24e10f9", 
+            "name": "Anastas Efendi", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "1e716ab1-3501-43c8-807b-4fc6180a91f1", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "karc\u0131\u011far", 
+        "usul": "\u00e7ifted\u00fcyek"
+    }, 
+    "title": "Karcigar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "01510767-677e-4c52-aed4-3e18e2fd2c61", 
+            "score": {
+                "name": "karcigar--pesrev--cifteduyek----tatyos_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Karcigar Pesrev"
+        }
+    ]
+}

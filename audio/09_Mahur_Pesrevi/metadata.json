@@ -1,0 +1,43 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "piano"
+            ], 
+            "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+            "name": "Erkan Y\u00fcksel", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "d3ecbf8a-d5e5-4c97-a8a8-a9301c205115", 
+            "name": "Demir Karaba\u015f", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "87947c7d-e887-4af9-8baa-85c7e6873812", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "mahur"
+    }, 
+    "title": "Mahur Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "423ec97c-d4bd-4340-81da-625b1934021b", 
+            "score": {
+                "name": "mahur--pesrev--muhammes----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mahur Pesrevi"
+        }
+    ]
+}

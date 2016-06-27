@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "9f91b935-4cff-4505-9d17-f5fc930a9729", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "muhayyer", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Muhayyer Saz Semai (Tanburi Cemil Bey)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ac003195-9ea0-4d8e-8420-2d6c269e98f6", 
+            "score": {
+                "name": "muhayyer--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Muhayyer Sazsemaisi"
+        }
+    ]
+}

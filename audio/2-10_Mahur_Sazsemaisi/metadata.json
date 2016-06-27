@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "98bcdef0-684c-49a4-a124-4086c1627b72", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "mahur", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Mahur Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4a1c9cf2-2f62-44df-b432-8cf748328b44", 
+                    "name": "Ferit Sidal", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ae21380c-77b8-4706-9a91-b47bec0ce9e6", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mahur Sazsemaisi"
+        }
+    ]
+}

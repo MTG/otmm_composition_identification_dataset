@@ -1,0 +1,49 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "5cff7e8a-c80f-4acb-8961-b64007fb5194", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "sababuselik", 
+        "usul": "devrikebir"
+    }, 
+    "title": "Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+                    "name": "Dede Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "2612a010-8d83-4056-90c2-7aa6569603e7", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sababuselik Ayin-i Serif"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+                    "name": "Dede Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "b12e5131-6424-4fae-a4a7-f614ee639159", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sababuselik Pesrev"
+        }
+    ]
+}

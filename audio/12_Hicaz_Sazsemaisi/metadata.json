@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "name": "Necati \u00c7elik", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "67ca7aab-e2a0-466d-ae68-a9121cba254c", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "hicaz", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Hicaz Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5337928f-0521-4946-814c-295351f2ed5c", 
+                    "name": "Refik Tal'at Alpman", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8caa157b-0163-4de7-8625-07e49f262a26", 
+            "score": {
+                "name": "hicaz--sazsemaisi--aksaksemai----refik_talat_alpman", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "name": "Aziz \u015eenol Filiz", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "3373f074-198b-4cb1-b4bb-17b433108c8a", 
+            "name": "Re\u015fat Uca", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "3b574ce5-00f2-4fe5-9b7b-201d168372e1", 
+            "name": "Samim Karaca", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "653e27dc-a7c5-4280-ae0a-80611943d12b", 
+            "name": "Birol Yayla", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "name": "Taner Sayac\u0131o\u011flu", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "f3738b0a-cda6-41d8-8388-354873075cd9", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "tahirbuselik", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Tahirbuselik Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5d5ad617-0b04-4b34-aab7-d8d8eb8cf64a", 
+                    "name": "Kemani Riza Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "e9456d5a-8cf7-42c2-a819-8c29bbe6af01", 
+            "score": {
+                "name": "tahirbuselik--sazsemaisi--aksaksemai----kemani_riza_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Tahirbuselik Sazsemaisi"
+        }
+    ]
+}

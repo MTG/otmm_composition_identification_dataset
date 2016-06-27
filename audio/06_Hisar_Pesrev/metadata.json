@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "224b2865-ff13-4d60-996a-e85561d8794d", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "hisar", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Hisar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "182d7cac-7ade-4712-8865-7ecbc98d719e", 
+                    "name": "Refik Fersan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "64a39652-f9ba-4c89-a6e4-21811a4ed23d", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hisar Pesrev"
+        }
+    ]
+}

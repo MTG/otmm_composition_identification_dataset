@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "cedb5e7f-f409-4c73-a7d8-1eb3aecdd482", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u015fevk'efza", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Sevk'efza Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "03ee7b0d-3818-4236-9cfb-14810f310a9e", 
+                    "name": "Seyh Said Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "7d338307-ca89-4b5c-b93e-c797d0a4bf8d", 
+            "score": {
+                "name": "sevkefza--sazsemaisi--aksaksemai----said_dede", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sevkefza Sazsemaisi"
+        }
+    ]
+}

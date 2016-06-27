@@ -1,0 +1,68 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "name": "Ahmet \u015eahin", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "bendir"
+            ], 
+            "mbid": "5668a74b-1da3-4a58-bae1-d69f9fec76d7", 
+            "name": "Serdar Bi\u015firen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "c5bd2eee-7fcb-4cc5-8481-a69f5caded75", 
+            "name": "Ruhi Ayangil", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "name": "\u00d6zer \u00d6zel", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "f8552ca0-4b7a-490d-8bb3-1494a446e09b", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "k\u00fcrdi", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Kurdi Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "aa897fb3-9e02-42d7-8d9c-f4751dd15ef3", 
+                    "name": "Sehzade Sultan Korkud", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "a850baea-d661-404d-8715-f4b37e5d49fd", 
+            "score": {
+                "name": "kurdi--pesrev--devrikebir----sehzade_korkut", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdi Pesrevi"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+	"annotation": {
+		"Unit": "Hz",
+		"OctaveWrapped": 0,
+		"Value": 221,
+		"Method": "Last note detection",
+		"Citation": "atli2015fma"
+	}
+}

@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "035d177c-72dd-49c5-b0ca-94c808bfb4c0", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "mahur", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Mahur Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8c386f72-3292-4345-a675-be187b414a5b", 
+                    "name": "Gazi Giray Han", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "12f98c6c-7547-4661-9e79-8bc4264eb3e4", 
+            "score": {
+                "name": "mahur--sazsemaisi--aksaksemai----gazi_giray_han", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mahur Sazsemaisi"
+        }
+    ]
+}

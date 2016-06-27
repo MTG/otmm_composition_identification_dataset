@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "ney"
+            ], 
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "name": "Ahmet \u015eahin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "ced43288-4f64-49f1-b1e7-e8006e7f781e", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "bestenigar", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Bestenigar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b38d3012-30bf-4bef-b8e2-e1a7d736ff13", 
+                    "name": "Numan Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "50e4d7c8-9268-488d-b891-ee696ae0f4e5", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Bestenigar Pesrevi"
+        }
+    ]
+}

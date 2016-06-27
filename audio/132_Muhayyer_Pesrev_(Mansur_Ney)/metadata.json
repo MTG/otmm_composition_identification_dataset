@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai", 
+                "solo"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "06edff91-7617-4b6e-ba75-4537a56f86cb", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "muhayyer"
+    }, 
+    "title": "Muhayyer Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "608def1b-d955-46e0-acde-1e3190d4f49b", 
+            "score": {
+                "name": "muhayyer--pesrev--devrikebir----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Muhayyer Pesrev"
+        }
+    ]
+}

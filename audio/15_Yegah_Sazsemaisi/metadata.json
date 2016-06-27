@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "a4ec49ac-c69a-4426-a8d1-f2966745c5c1", 
+            "name": "Taner Kalkulo\u011flu", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "7b4b4291-30a6-4295-9d6f-a898659e04e8", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "yegah", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Yegah Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ca235097-a13b-42e6-8f36-2540a4561c48", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Yegah Sazsemaisi"
+        }
+    ]
+}

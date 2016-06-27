@@ -1,0 +1,52 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "name": "Bayram Co\u015fkuner", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "name": "Turay Dinleyen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "b359fdcb-e48a-414e-bfb4-539d54a5bb85", 
+            "name": "Tahir Aydo\u011fdu", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "13b2470a-2c7a-4676-b542-2860c9885d29", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "k\u00fcrdilihicazkar", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Kurdilihicazkar Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "eadeb598-7511-4a35-81f4-965e212f1980", 
+            "score": {
+                "name": "kurdilihicazkar--sazsemaisi--aksaksemai----tatyos_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Sazsemaisi"
+        }
+    ]
+}

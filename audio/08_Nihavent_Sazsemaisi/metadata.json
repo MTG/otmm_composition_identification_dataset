@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "f716d17e-c086-4011-b95b-4c75ec998e18", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "nihavent"
+    }, 
+    "title": "Nihavent Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "edc19ca1-5ff3-4c7c-8697-d091af8c91ef", 
+                    "name": "Hasip Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8ff4d355-dd46-4074-b266-aeacabaf875a", 
+            "score": {
+                "name": "nihavent--sazsemaisi--senginsemai----erzurumlu_hasib_dede", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nihavend Saz Semai"
+        }
+    ]
+}

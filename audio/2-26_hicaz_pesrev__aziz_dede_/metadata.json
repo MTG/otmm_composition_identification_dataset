@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "d644102e-b2e6-479c-9bd9-be9310e765bd", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "hicaz", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Hicaz Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "a6775723-69b6-4997-82da-bf230b1f8655", 
+                    "name": "Neyzen Aziz Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "85f85d59-97f1-4a36-bd82-ac136a761e07", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicaz Pesrev"
+        }
+    ]
+}

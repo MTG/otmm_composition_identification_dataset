@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai", 
+                "solo"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "fa069c5e-78bc-4f56-ba82-c976315e6668", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "acema\u015firan"
+    }, 
+    "title": "Acem Asiran Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "01412a5d-1858-43b3-b5b0-78f383675e9b", 
+            "score": {
+                "name": "acemasiran--pesrev--devrikebir----dede_salih_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemasiran Pesrev"
+        }
+    ]
+}

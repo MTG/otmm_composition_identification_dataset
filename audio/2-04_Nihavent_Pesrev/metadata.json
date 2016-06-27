@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "2dbddbc5-904f-4ae5-af41-ab1c055405a6", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "nihavent", 
+        "usul": "hafif"
+    }, 
+    "title": "Nihavent Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "1e952ccb-4cb1-4cb5-8d1e-d11e021a5c94", 
+                    "name": "Tiryaki", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "91c3e044-04c9-443d-a53c-c267b83860ef", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nihavent Pesrev"
+        }
+    ]
+}

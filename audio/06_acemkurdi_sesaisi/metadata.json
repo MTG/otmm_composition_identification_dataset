@@ -1,0 +1,37 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun", 
+                "solo"
+            ], 
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "name": "Erol Deran", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "afc94a77-f511-4aae-b91a-4639d8211ec3", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "acemk\u00fcrdi", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Acemkurdi Saz Semisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
+                    "name": "Cevdet Cagla", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "9afa81b7-5d65-4235-b66c-a766e3ed1281", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemkurdi Sazsemaisi"
+        }
+    ]
+}

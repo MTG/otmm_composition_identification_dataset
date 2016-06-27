@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "fd368217-78e4-4832-acaf-2494ad0e6640", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "acemk\u00fcrdi", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Acemkurdi sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
+                    "name": "Cevdet Cagla", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "9afa81b7-5d65-4235-b66c-a766e3ed1281", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemkurdi Sazsemaisi"
+        }
+    ]
+}

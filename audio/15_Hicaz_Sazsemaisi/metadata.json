@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "name": "Mutlu Torun", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "033a39aa-9ad7-48ba-a15f-6fb4cd2f5ad8", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "hicaz", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Hicaz Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5337928f-0521-4946-814c-295351f2ed5c", 
+                    "name": "Refik Tal'at Alpman", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8caa157b-0163-4de7-8625-07e49f262a26", 
+            "score": {
+                "name": "hicaz--sazsemaisi--aksaksemai----refik_talat_alpman", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ]
+}

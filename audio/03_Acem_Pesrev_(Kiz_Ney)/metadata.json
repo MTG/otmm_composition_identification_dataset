@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "d34ae8d0-2e53-431c-96c5-c4af92514a6f", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "acem"
+    }, 
+    "title": "Acem Pesrev (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "0ea6df7d-8fbd-47e0-9c16-c55c8c4ff171", 
+                    "name": "Nuri Halil Poyraz", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "04d5fb0c-0076-48c1-923f-ae705b7352cf", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acem Pesrev"
+        }
+    ]
+}

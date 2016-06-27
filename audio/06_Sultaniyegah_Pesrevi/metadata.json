@@ -1,0 +1,43 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "91643742-9dd8-4aaf-a643-25f60336e1e9", 
+            "name": "U\u011fur Onuk", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "piano"
+            ], 
+            "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+            "name": "Erkan Y\u00fcksel", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "f78f4295-9d7c-483b-a9a0-97515716155d", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "sultaniyegah"
+    }, 
+    "title": "Sultaniyegah Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5c0bf6d3-56f1-480a-a68d-bce3e5e521bd", 
+                    "name": "Kanuni Haci Arif Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "95a0013a-eb0a-48fa-9ac9-05b56e21715e", 
+            "score": {
+                "name": "sultaniyegah--pesrev--muhammes----kanuni_haci_arif_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sultaniyegah Pesrevi"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "lute"
+            ], 
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "37ccb351-91d5-4569-88ff-407d0fd8bb87", 
+            "name": "Mehmed Ru\u015fen Ferit Kam", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "4abe7f3d-34ba-43a2-97f6-8ec00d54366e", 
+            "name": "Vecihe Daryal", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "86eddebc-b9b8-4069-aac8-b6d789c6f1c9", 
+    "tags": {
+        "form1": "pe\u015frev", 
+        "form2": "taksim", 
+        "form3": "sazsemaisi", 
+        "form4": "sirto", 
+        "makam1": "k\u00fcrdilihicazkar", 
+        "makam2": "k\u00fcrdilihicazkar", 
+        "makam3": "k\u00fcrdilihicazkar", 
+        "makam4": "hicazkar", 
+        "usul2": "taksim"
+    }, 
+    "title": "Kurdilihicazkar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "e3d3f39f-f597-41c6-858d-e04b6ecd65c3", 
+                    "name": "Vasilaki Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "7956d9d2-a108-46d3-8ad2-eaa02d8c841e", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Sazsemaisi"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "8cd9d680-2613-47c2-8a8a-958f6cb48110", 
+                    "name": "Kadi Fuat Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8705e9de-bf2c-4590-8be3-f116131c8bb0", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicazkar Sirto"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "d689c032-ab60-4162-b872-b56cf3b24db6", 
+            "score": {
+                "name": "kurdilihicazkar--pesrev--muhammes----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Pesrevi"
+        }
+    ]
+}

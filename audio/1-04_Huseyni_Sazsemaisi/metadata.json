@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "b713e101-37ef-4f17-ae22-bc2b5cb40c30", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "h\u00fcseyni", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Huseyni Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ecbd1847-79bd-4083-b9e5-833c90e6d8cc", 
+            "score": {
+                "name": "huseyni--sazsemaisi--aksaksemai----tatyos_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huseyni Sazsemaisi"
+        }
+    ]
+}

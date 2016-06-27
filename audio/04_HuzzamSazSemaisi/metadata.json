@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "37ccb351-91d5-4569-88ff-407d0fd8bb87", 
+            "name": "Mehmed Ru\u015fen Ferit Kam", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "4abe7f3d-34ba-43a2-97f6-8ec00d54366e", 
+            "name": "Vecihe Daryal", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "af143883-7692-4570-bc94-aa90fd5f5374", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "h\u00fczzam", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Huzzam Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
+                    "name": "Serif Muhittin Targan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "2cb88ad5-2cc5-439c-a3a2-dbcccd07a62a", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Sazsemaisi"
+        }
+    ]
+}

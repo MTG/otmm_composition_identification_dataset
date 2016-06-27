@@ -1,0 +1,37 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "solo", 
+                "tanbur"
+            ], 
+            "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
+            "name": "Hulusi Babal\u0131k", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "f3631f34-0e07-4d75-a93e-bfc0d4769816", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "suzidil", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Suzidil Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "64b8dcaa-03a4-48e8-919f-362ebb57809a", 
+                    "name": "Tanburi Ali Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "40300628-d472-4232-81ce-df599f4fbacc", 
+            "score": {
+                "name": "suzidil--pesrev--devrikebir----tanburi_ali_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Suzidil Pesrev"
+        }
+    ]
+}

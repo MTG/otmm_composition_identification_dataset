@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "3e71df6c-b90c-4175-afac-0f363404c611", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "h\u00fczzam"
+    }, 
+    "title": "Huzzam Pesrev (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fcc1e11e-97cf-41a3-9d66-76a944c96968", 
+                    "name": "Seyfettin Osmanoglu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "852232f7-e223-4561-9a22-313eb858c469", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Pesrev"
+        }
+    ]
+}

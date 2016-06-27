@@ -1,0 +1,30 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "5b734939-3f33-4f8d-8e83-1c29879dffb5", 
+    "tags": {}, 
+    "title": "Kurdili Hicazkar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "e3d3f39f-f597-41c6-858d-e04b6ecd65c3", 
+                    "name": "Vasilaki Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
+            "score": {
+                "name": "kurdilihicazkar--pesrev--agirduyek----vasilaki", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Pesrev"
+        }
+    ]
+}

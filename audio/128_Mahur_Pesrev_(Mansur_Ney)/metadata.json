@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai", 
+                "solo"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "9ddf9418-0de9-4678-8219-f788f2b7a794", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "mahur"
+    }, 
+    "title": "Mahur Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b83168b7-91aa-4900-ba25-84146fedf915", 
+                    "name": "Rauf Yekta Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "32a9c5dc-1e57-47dc-9b97-6e0a611df9e4", 
+            "score": {
+                "name": "mahur--pesrev--hafif----rauf_yekta", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mahur Pesrevi"
+        }
+    ]
+}

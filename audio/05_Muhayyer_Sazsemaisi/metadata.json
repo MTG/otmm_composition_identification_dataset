@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "name": "Enver Mete Aslan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "f51ef91d-4680-4652-8e8f-ce234e5c26e0", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "muhayyer", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Muhayyer Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ac003195-9ea0-4d8e-8420-2d6c269e98f6", 
+            "score": {
+                "name": "muhayyer--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Muhayyer Sazsemaisi"
+        }
+    ]
+}

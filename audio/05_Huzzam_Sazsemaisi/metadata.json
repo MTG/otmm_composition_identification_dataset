@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "name": "Nevzat S\u00fcmer", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "4fdc0683-7885-48c3-9487-e4d087a8b6be", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "h\u00fczzam", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Huzzam Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
+                    "name": "Serif Muhittin Targan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "2cb88ad5-2cc5-439c-a3a2-dbcccd07a62a", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Sazsemaisi"
+        }
+    ]
+}

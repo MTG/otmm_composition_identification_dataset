@@ -1,0 +1,51 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "3a8b4caa-c2a0-47fc-9804-6d99afdcded6", 
+    "tags": {
+        "form1": "pe\u015frev", 
+        "form2": "\u015fark\u0131", 
+        "makam": "k\u00fcrdilihicazkar", 
+        "usul1": "d\u00fcyek", 
+        "usul2": "aksak"
+    }, 
+    "title": "Kurdilihicazkar Pesrevi / Ehl-i Askin", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "b43fd61e-522c-4af4-821d-db85722bf48c", 
+            "score": {
+                "name": "kurdilihicazkar--sarki--agiraksak--ehl-i_askin--tatyos_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ehl-i Askin"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "e3d3f39f-f597-41c6-858d-e04b6ecd65c3", 
+                    "name": "Vasilaki Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
+            "score": {
+                "name": "kurdilihicazkar--pesrev--agirduyek----vasilaki", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Pesrev"
+        }
+    ]
+}

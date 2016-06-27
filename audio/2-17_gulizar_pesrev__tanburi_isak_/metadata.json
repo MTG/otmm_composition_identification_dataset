@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "f7a38ecc-fb4f-46e0-9114-c07e86227560", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "g\u00fclizar", 
+        "usul": "hafif"
+    }, 
+    "title": "Gulizar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "93588cf7-65d3-47ed-883b-2d740b971b3a", 
+                    "name": "Tanburi Isak Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "59be02fb-70c8-4249-80ee-9032dbc338f7", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Gulizar Pesrevi"
+        }
+    ]
+}

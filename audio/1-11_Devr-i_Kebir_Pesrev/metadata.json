@@ -1,0 +1,74 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
+            "name": "Cevdet \u00c7a\u011fla", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "4abe7f3d-34ba-43a2-97f6-8ec00d54366e", 
+            "name": "Vecihe Daryal", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kud\u00fcm"
+            ], 
+            "mbid": "5d91f2d7-f64f-4763-87df-4033f7491f06", 
+            "name": "Sadettin Heper", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "2836fc70-2a43-4f3e-ac49-160049cadbed", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u0131sfahan", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Devr-i Kebir Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "a923198e-2d5a-4e97-b313-42084e5a150a", 
+                    "name": "Neyzen Emin Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "3d015e65-53d6-44de-bdef-e5111b320a5e", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Isfahan Pesrev"
+        }
+    ]
+}

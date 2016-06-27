@@ -1,0 +1,59 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "61f7fce2-d647-4d0f-bb50-e3ae683272cc", 
+            "name": "G\u00fcrcan Yaman", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "c53f93ac-c736-4972-8d47-1fbc010162c4", 
+            "name": "Talat Er", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "044b43b8-989c-4595-994a-644f890ee5c4", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "k\u00fcrdilihicazkar"
+    }, 
+    "title": "Kurdilihicazkar Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "eadeb598-7511-4a35-81f4-965e212f1980", 
+            "score": {
+                "name": "kurdilihicazkar--sazsemaisi--aksaksemai----tatyos_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Sazsemaisi"
+        }
+    ]
+}

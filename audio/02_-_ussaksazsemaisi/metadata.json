@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "ney"
+            ], 
+            "mbid": "61a32817-7ab6-432a-8c87-b0c99880df84", 
+            "name": "Murat Salim Toka\u00e7", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "9bc1769b-c483-4806-bec6-b762a6cc0803", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "u\u015f\u015fak", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Ussak Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ad9fb46e-eb95-4446-93ad-e3bf13c01a95", 
+            "score": {
+                "name": "ussak--sazsemaisi--aksaksemai----dede_salih_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ussak Sazsemaisi"
+        }
+    ]
+}

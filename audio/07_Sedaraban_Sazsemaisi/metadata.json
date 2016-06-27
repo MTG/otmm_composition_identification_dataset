@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "name": "Necati \u00c7elik", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "da1050b4-2950-48d2-8d47-853908e96db3", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u015fedaraban", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Sedaraban Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "1eb2ca1e-249b-424c-9ff5-0e1561590257", 
+            "score": {
+                "name": "sedaraban--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sedaraban Sazsemaisi"
+        }
+    ]
+}

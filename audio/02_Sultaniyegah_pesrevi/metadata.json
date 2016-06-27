@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "ef8c34c7-0686-4c23-823f-011431cdaff2", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "sultaniyegah", 
+        "usul": "hafif"
+    }, 
+    "title": "Sultaniyegah pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "182d7cac-7ade-4712-8865-7ecbc98d719e", 
+                    "name": "Refik Fersan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "cb36532b-f740-4e41-84bb-58fb8db3bac5", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sultaniyegah Pesrev"
+        }
+    ]
+}

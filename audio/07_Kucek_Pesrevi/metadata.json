@@ -1,0 +1,84 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "7a3adb1f-ebe6-4dbe-a0cc-c71f034d4091", 
+            "name": "Volkan Y\u0131lmaz", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "8cf45553-41e7-4544-8070-45ff74f7fb18", 
+            "name": "Ahmet Kadri Rizeli", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "percussion"
+            ], 
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "name": "Fahrettin Yark\u0131n", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "bendir"
+            ], 
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "name": "Vahit Anadolu", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "eec97a99-ab73-4707-84b5-d7a7e667cb11", 
+            "name": "Safinaz Rizeli", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "192b1a5d-02d8-4817-931c-d5eb31ff69ed", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "ku\u00e7ek", 
+        "usul": "muhammes"
+    }, 
+    "title": "Kucek Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "c83cc396-996d-4eac-bf22-3de15d05db5c", 
+                    "name": "Musi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "d9b386e3-6111-4755-9813-e2e7d937517c", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kucek Pesrev"
+        }
+    ]
+}

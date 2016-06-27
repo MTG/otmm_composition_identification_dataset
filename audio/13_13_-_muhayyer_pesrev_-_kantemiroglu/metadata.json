@@ -1,0 +1,69 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "rebab"
+            ], 
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "name": "Aziz \u015eenol Filiz", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "653e27dc-a7c5-4280-ae0a-80611943d12b", 
+            "name": "Birol Yayla", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "6d47c26c-2a6d-4f34-a7c5-4b2bd61b21fc", 
+            "name": "Serap \u00c7a\u011flayan", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "daire", 
+                "kud\u00fcm"
+            ], 
+            "mbid": "86353e17-d6a3-478e-8a27-a99fe59f7b15", 
+            "name": "Kamil Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "2e3d7f65-ec91-4bff-9b98-84f76c4891c0", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "muhayyer", 
+        "usul": "muhammes"
+    }, 
+    "title": "Muhayyer Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "853620fb-99c3-4b16-9c27-ee37c4e0a330", 
+                    "name": "Dimitri Cantemir", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "879d74cd-dcaa-42ed-ba2e-471c17027115", 
+            "score": {
+                "name": "muhayyer--pesrev--muhammes----kantemiroglu", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Muhayyer Pesrev"
+        }
+    ]
+}

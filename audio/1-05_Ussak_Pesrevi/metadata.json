@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "name": "Ahmet \u015eahin", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "bendir"
+            ], 
+            "mbid": "5668a74b-1da3-4a58-bae1-d69f9fec76d7", 
+            "name": "Serdar Bi\u015firen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "81a84ad1-f3b8-4831-9cae-e2ac2815f205", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "u\u015f\u015fak", 
+        "usul": "darbeyn"
+    }, 
+    "title": "Ussak Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "1ab5a8c5-4693-43e4-809d-353990423938", 
+                    "name": "Sultan III. Selim", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "b89c2adb-b5c8-443c-97fa-76fe21cdabd7", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ussak Pesrev"
+        }
+    ]
+}

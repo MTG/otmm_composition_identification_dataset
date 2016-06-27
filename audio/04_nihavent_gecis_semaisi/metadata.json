@@ -1,0 +1,37 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun", 
+                "solo"
+            ], 
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "name": "Erol Deran", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "d0d3c5ca-bd83-458f-953f-ffbf1eb10862", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "nihavent", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Nihavent Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "eb9d70ae-a81b-4a31-bcd6-bd5824cc7eae", 
+                    "name": "Resat Aysu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "bd82468d-e5bf-4541-9b4e-7402332508ba", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nihavent Sazsemaisi"
+        }
+    ]
+}

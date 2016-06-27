@@ -1,0 +1,39 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud", 
+                "solo"
+            ], 
+            "mbid": "d695dfaa-01f8-4a16-a538-5ccbad58de19", 
+            "name": "Yurdal Tokcan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "4bcb78bf-1ac1-4f90-b573-91262f3f06a1", 
+    "tags": {
+        "form": "taksim", 
+        "form1": "sazsemaisi", 
+        "makam": "mahur", 
+        "usul": "serbest", 
+        "usul1": "aksaksemai"
+    }, 
+    "title": "Ud Taksim, Mahur Saz Semai", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5337928f-0521-4946-814c-295351f2ed5c", 
+                    "name": "Refik Tal'at Alpman", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "2c4de85d-ff94-4f5b-a2d7-7f8f503c5e43", 
+            "score": {
+                "name": "mahur--sazsemaisi--aksaksemai----refik_talat_alpman", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mahur Sazsemaisi"
+        }
+    ]
+}

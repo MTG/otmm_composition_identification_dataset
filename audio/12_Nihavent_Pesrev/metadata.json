@@ -1,0 +1,37 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "solo", 
+                "tanbur"
+            ], 
+            "mbid": "7608f1ca-51f8-401f-8ed8-ec66252a2fb6", 
+            "name": "Hulusi Babal\u0131k", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "d55ec468-de51-458b-bd19-ae71de96256e", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "nihavent", 
+        "usul": "hafif"
+    }, 
+    "title": "Nihavent Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "182d7cac-7ade-4712-8865-7ecbc98d719e", 
+                    "name": "Refik Fersan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "5e4f3b71-058b-425f-8bc1-3c0eeacc201d", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nihavent Pesrev"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "6244a864-d930-4450-96ff-34cba329dc69", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "u\u015f\u015fak", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Ussak Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ad9fb46e-eb95-4446-93ad-e3bf13c01a95", 
+            "score": {
+                "name": "ussak--sazsemaisi--aksaksemai----dede_salih_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ussak Sazsemaisi"
+        }
+    ]
+}

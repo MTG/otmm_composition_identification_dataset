@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "957a6f17-20d6-489f-8d94-cd23cf7e0abf", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "ferahnak", 
+        "usul": "zencir"
+    }, 
+    "title": "Ferahnak Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fcc3214c-4a42-4e97-ba32-91a4d7820594", 
+                    "name": "Tanburi Zeki Mehmet Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "60948aeb-6db6-4254-a9f5-b9ef766e92e7", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahnak Pesrev"
+        }
+    ]
+}

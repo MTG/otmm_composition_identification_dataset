@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "ney"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "6661b6f2-a306-4c77-8c16-a44870e17bc4", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "neva", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Neva Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
+            "score": {
+                "name": "neva--pesrev--devrikebir----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Neva Pesrev"
+        }
+    ]
+}

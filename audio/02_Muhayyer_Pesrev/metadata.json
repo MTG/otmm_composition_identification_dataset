@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "name": "Necati \u00c7elik", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "8765900f-e7d0-46c7-910c-25d035e27b28", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "muhayyer", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Muhayyer Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "608def1b-d955-46e0-acde-1e3190d4f49b", 
+            "score": {
+                "name": "muhayyer--pesrev--devrikebir----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Muhayyer Pesrev"
+        }
+    ]
+}

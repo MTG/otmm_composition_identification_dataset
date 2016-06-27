@@ -1,0 +1,43 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "viola"
+            ], 
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "name": "Turay Dinleyen", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "b105fefe-5afe-4f5e-9fcd-f9520e6f8de8", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "nihavent"
+    }, 
+    "title": "Nihavend Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "752f151f-f0e6-4fd9-8390-890b73d43cf5", 
+                    "name": "Omer Altug", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "c8c88d9b-c2bf-4183-85bf-2461c79cc4af", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nihavend Saz Semaisi"
+        }
+    ]
+}

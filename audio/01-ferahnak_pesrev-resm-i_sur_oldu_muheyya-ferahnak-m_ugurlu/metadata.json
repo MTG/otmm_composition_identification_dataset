@@ -1,0 +1,50 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "e2bbe528-7d15-4963-8439-198f66211d2a", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "form1": "kar", 
+        "makam": "ferahnak", 
+        "usul1": "muhammes"
+    }, 
+    "title": "Ferahnak Pesrev / Resm-i Sur Oldu Muheyya", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "870bc0c9-8cdd-4baa-a874-83cfb92097f6", 
+                    "name": "Dellalzade Haci Ismail Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "4bebb0b4-5a53-4bdd-8004-29343cb351b7", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Resm-i Sur Oldu Muheyya Sad u Handan Vaktidir"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "fcc3214c-4a42-4e97-ba32-91a4d7820594", 
+                    "name": "Tanburi Zeki Mehmet Aga", 
+                    "type": "writer"
+                }
+            ], 
+            "mbid": "60948aeb-6db6-4254-a9f5-b9ef766e92e7", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahnak Pesrev"
+        }
+    ]
+}

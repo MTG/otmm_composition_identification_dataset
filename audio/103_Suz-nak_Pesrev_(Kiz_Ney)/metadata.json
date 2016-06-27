@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "b3995b2a-1b07-4d2f-97d5-5f417840f7bb", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "suzinak"
+    }, 
+    "title": "Suz-nak Pesrev (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
+                    "name": "Cevdet Cagla", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "3524bd9b-4ab7-46cd-b781-0121c8c6c7a4", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Suzinak Pesrev"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "name": "Enver Mete Aslan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "b792952a-fd2b-4c5a-a387-287bc213070b", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "nikriz", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Nikriz Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "182d7cac-7ade-4712-8865-7ecbc98d719e", 
+                    "name": "Refik Fersan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "610cdc9c-598a-4417-bd7d-d99c93b8c339", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nikriz Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "6d0e161f-fadf-4ff5-8dfa-226390468ea4", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "hicaz"
+    }, 
+    "title": "Hicaz Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "0efe3eaa-8c8a-4131-badb-5d44a8311f76", 
+                    "name": "Neyzen Salim Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "995e922d-ef6a-456a-b1e0-23250330d188", 
+            "score": {
+                "name": "hicaz--pesrev--fahte----neyzen_salim_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicaz Pesrev"
+        }
+    ]
+}

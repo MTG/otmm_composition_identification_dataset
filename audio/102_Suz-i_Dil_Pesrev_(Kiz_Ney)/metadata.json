@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "3a5c79f5-8244-496a-8f3b-2e8418fbcfcd", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "suzidil"
+    }, 
+    "title": "Suz-i Dil Pesrev (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "64b8dcaa-03a4-48e8-919f-362ebb57809a", 
+                    "name": "Tanburi Ali Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "40300628-d472-4232-81ce-df599f4fbacc", 
+            "score": {
+                "name": "suzidil--pesrev--devrikebir----tanburi_ali_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Suzidil Pesrev"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "viola"
+            ], 
+            "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
+            "name": "Cevdet \u00c7a\u011fla", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "6a1f9f25-0255-4341-9485-e88a5ba08053", 
+            "name": "Fahire Fersan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "ed189797-5c50-4fde-abfa-cb1c8a2a2571", 
+    "tags": {
+        "form1": "pe\u015frev", 
+        "form2": "taksim", 
+        "form3": "sazsemaisi", 
+        "makam1": "\u0131sfahan", 
+        "makam2": "\u0131sfahan", 
+        "makam3": "\u0131sfahan", 
+        "usul2": "serbest"
+    }, 
+    "title": "Isfahan Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "128bbaa3-e7f2-417e-924e-0eac99880556", 
+            "score": {
+                "name": "isfahan--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Isfahan Sazsemaisi"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "820b3011-67ba-4dbd-b249-2fd3008ac032", 
+            "score": {
+                "name": "isfahan--pesrev--devrikebir----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Isfahan Pesrev"
+        }
+    ]
+}

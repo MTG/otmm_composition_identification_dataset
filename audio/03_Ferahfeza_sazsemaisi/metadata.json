@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "60f7b0d0-606a-4f58-9ff5-211f0facec86", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "ferahfeza", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Ferahfeza sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
+                    "name": "Serif Muhittin Targan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "80a81c87-eb6e-40dc-b69a-e0712b4374f2", 
+            "score": {
+                "name": "ferahfeza--sazsemaisi--aksaksemai----serif_muhittin_targan", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahfeza Sazsemaisi"
+        }
+    ]
+}

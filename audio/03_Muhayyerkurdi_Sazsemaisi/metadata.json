@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "65e0df9a-64a6-450c-acae-009a8c725661", 
+            "name": "Necip G\u00fclses", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "86299acc-2dd4-49d2-b20e-d1707c699d62", 
+            "name": "Kudsi Erg\u00fcner", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "9300ce7f-ba52-4dd9-84cd-5314c0077170", 
+            "name": "Hakan G\u00fcng\u00f6r", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "percussion"
+            ], 
+            "mbid": "e504a080-2092-4855-9135-45914556ca70", 
+            "name": "Vahit Anadolu", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "8eb7bd05-9725-46ae-8d49-c168a30576b8", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "muhayyerk\u00fcrdi", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Muhayyerkurdi Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5f7c5fc5-0958-49e3-8e17-d638ddd30938", 
+                    "name": "Sadi Isilay", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "52454ace-07c8-4d72-a48f-ea16d7a1b418", 
+            "score": {
+                "name": "muhayyerkurdi--sazsemaisi--aksaksemai----sadi_isilay", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Muhayyerkurdi Sazsemaisi"
+        }
+    ]
+}

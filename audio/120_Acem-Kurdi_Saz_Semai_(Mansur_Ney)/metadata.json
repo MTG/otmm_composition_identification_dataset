@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai", 
+                "solo"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "097f65fc-518f-493d-b6e4-d2c178664153", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "acemk\u00fcrdi"
+    }, 
+    "title": "Acem-Kurdi Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
+                    "name": "Cevdet Cagla", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "9afa81b7-5d65-4235-b66c-a766e3ed1281", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemkurdi Sazsemaisi"
+        }
+    ]
+}

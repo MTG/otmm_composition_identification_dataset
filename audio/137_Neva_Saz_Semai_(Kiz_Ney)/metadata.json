@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai", 
+                "solo"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "518bb95c-c155-4759-857e-215e9cd463ce", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "neva"
+    }, 
+    "title": "Neva Saz Semai (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "0abb62c1-0d4c-453f-aa3d-6c651a3c2557", 
+                    "name": "Yusuf Ziya Pasa", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "014f1baa-8650-4e9a-85d2-d388ff856e86", 
+            "score": {
+                "name": "neva--sazsemaisi--aksaksemai----yusuf_ziya_pasa", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Neva Sazsemaisi"
+        }
+    ]
+}

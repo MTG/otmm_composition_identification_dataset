@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "69361bc7-f467-47ae-83b4-91f853a307cc", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "beyati-araban", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Beyati-Araban Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b83168b7-91aa-4900-ba25-84146fedf915", 
+                    "name": "Rauf Yekta Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "1dc8a983-8c66-477e-8c63-22409806f2e1", 
+            "score": {
+                "name": "beyati-araban--sazsemaisi--aksaksemai----rauf_yekta", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Beyati-Araban Sazsemaisi"
+        }
+    ]
+}

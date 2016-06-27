@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "8d6b089f-5e6e-469b-967c-c0bb6dc718a4", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "beyati-araban"
+    }, 
+    "title": "Beyati-araban Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b83168b7-91aa-4900-ba25-84146fedf915", 
+                    "name": "Rauf Yekta Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "1dc8a983-8c66-477e-8c63-22409806f2e1", 
+            "score": {
+                "name": "beyati-araban--sazsemaisi--aksaksemai----rauf_yekta", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Beyati-Araban Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "711dfc98-ad15-4b6b-83f8-80dbb2fccf42", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "h\u00fczzam", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Huzzam Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "025f6ee1-9536-4912-8758-20fbecf9b26f", 
+                    "name": "Udi Nevres Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "10cddd5e-6bd8-4c69-8561-0d0541f46f34", 
+            "score": {
+                "name": "huzzam--sazsemaisi--aksaksemai----udi_nevres_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Saz Semaisi"
+        }
+    ]
+}

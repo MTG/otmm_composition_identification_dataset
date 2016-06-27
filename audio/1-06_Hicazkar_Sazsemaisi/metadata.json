@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "c820c003-c498-4166-819c-79eae113e5d4", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "hicazkar", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Hicazkar Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "4b3685be-c30a-4b10-8ce6-5bcd2c96b1f3", 
+            "score": {
+                "name": "hicazkar--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicazkar Sazsemaisi"
+        }
+    ]
+}

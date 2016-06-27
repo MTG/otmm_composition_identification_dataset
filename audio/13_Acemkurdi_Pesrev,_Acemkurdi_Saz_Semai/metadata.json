@@ -1,0 +1,61 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "91e1b4b3-26d9-44fa-893f-35fb4cccb213", 
+            "name": "Neva \u00d6zgen", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "b6f6b8c1-83c2-4a27-b5fc-976d17881402", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "form1": "sazsemaisi", 
+        "makam": "acemk\u00fcrdi", 
+        "usul": "fahte", 
+        "usul1": "aksaksemai"
+    }, 
+    "title": "Acemkurdi Pesrev, Acemkurdi Saz Semai", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "e3ee575c-8438-4e04-9790-c1337d93318c", 
+                    "name": "Muallim Ismail Hakki Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "4abab307-e784-46fe-8a67-427d54b32511", 
+            "score": {
+                "name": "acemkurdi--pesrev--fahte----muallim_ismail_hakki_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemkurdi Pesrev"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "1eac0f26-1554-4ae5-8ceb-6ba4635d3738", 
+                    "name": "Cevdet Cagla", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "9afa81b7-5d65-4235-b66c-a766e3ed1281", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemkurdi Sazsemaisi"
+        }
+    ]
+}

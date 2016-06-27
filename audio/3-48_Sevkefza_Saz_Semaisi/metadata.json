@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "name": "Bekir Reha Sa\u011fba\u015f", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "e625d1c5-1d72-400c-8ced-661ee012f7ab", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u015fevkefza", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Sevkefza Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "03ee7b0d-3818-4236-9cfb-14810f310a9e", 
+                    "name": "Seyh Said Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "7d338307-ca89-4b5c-b93e-c797d0a4bf8d", 
+            "score": {
+                "name": "sevkefza--sazsemaisi--aksaksemai----said_dede", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sevkefza Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "e3eb44b9-f298-4994-8083-797aaba3ea9c", 
+            "name": "Ergin K\u0131z\u0131lay", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "15619d53-9e2e-44d0-bd26-6f2e025943f2", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "u\u015f\u015fak", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Arap Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "", 
+                    "name": "", 
+                    "type": ""
+                }
+            ], 
+            "mbid": "3f014f70-c7d6-4903-ac49-35a5c96c3e32", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ussak Arap Saz Semaisi"
+        }
+    ]
+}

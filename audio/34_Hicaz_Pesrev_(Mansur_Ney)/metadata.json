@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "32318cba-28b8-4606-b903-e3e47e6efcc2", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "hicaz"
+    }, 
+    "title": "Hicaz Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8c386f72-3292-4345-a675-be187b414a5b", 
+                    "name": "Gazi Giray Han", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "fc683656-27a6-43a3-99e1-800f937884b2", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicaz Pesrev"
+        }
+    ]
+}

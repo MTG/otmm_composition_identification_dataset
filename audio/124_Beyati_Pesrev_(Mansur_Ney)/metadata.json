@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai", 
+                "solo"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "47620e88-3d19-4afc-bea9-cd46e9988ee2", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "beyati"
+    }, 
+    "title": "Beyati Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "a923198e-2d5a-4e97-b313-42084e5a150a", 
+                    "name": "Neyzen Emin Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "c2ea8cbd-f3aa-4a4a-9ba5-83772b085ea3", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Beyati Pesrevi"
+        }
+    ]
+}

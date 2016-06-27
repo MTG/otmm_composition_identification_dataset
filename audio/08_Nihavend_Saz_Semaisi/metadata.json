@@ -1,0 +1,52 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "name": "Bayram Co\u015fkuner", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "name": "Turay Dinleyen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "b359fdcb-e48a-414e-bfb4-539d54a5bb85", 
+            "name": "Tahir Aydo\u011fdu", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "869244ea-b4b0-4cf9-b7b6-df444e12e31a", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "nihavent", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Nihavend Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "a8d8d8c6-e785-46bc-9896-f92a1c673a28", 
+                    "name": "Cinucen Tanrikorur", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "61c11f06-3625-4f44-890c-48cdddd6789c", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nihavend Saz Semaisi"
+        }
+    ]
+}

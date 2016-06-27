@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "03f4cba4-dbac-4d9c-84ab-d243d91ad837", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "tahirbuselik", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Tahirbuselik Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5d5ad617-0b04-4b34-aab7-d8d8eb8cf64a", 
+                    "name": "Kemani Riza Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "e9456d5a-8cf7-42c2-a819-8c29bbe6af01", 
+            "score": {
+                "name": "tahirbuselik--sazsemaisi--aksaksemai----kemani_riza_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Tahirbuselik Sazsemaisi"
+        }
+    ]
+}

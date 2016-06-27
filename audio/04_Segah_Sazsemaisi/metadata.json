@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "name": "Nevzat S\u00fcmer", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "39c2306a-ccc8-4921-ad6c-98ec78515a43", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "segah", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Segah Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "aa3ca85c-ee5f-44c1-a082-872baa22e106", 
+                    "name": "Munir Mazhar Kamsoy", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "62796d61-a9a8-431f-95d1-c42ea8ea01db", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Segah Sazsemaisi"
+        }
+    ]
+}

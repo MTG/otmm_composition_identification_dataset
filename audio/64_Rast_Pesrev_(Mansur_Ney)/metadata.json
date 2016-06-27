@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "5c14ad3d-a97a-4e04-99b6-bf27f842f909", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "rast"
+    }, 
+    "title": "Rast Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "0d7f07ff-fcf7-4733-9cbb-8e6acebb9a5c", 
+                    "name": "Giriftzen Asim Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "5acbd63f-63fa-4070-a2a2-79e2940de768", 
+            "score": {
+                "name": "rast--pesrev--devrikebir----giriftzen_asim_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Rast Pesrev"
+        }
+    ]
+}

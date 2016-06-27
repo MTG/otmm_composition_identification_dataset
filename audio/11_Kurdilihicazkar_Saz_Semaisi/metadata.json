@@ -1,0 +1,52 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "name": "Bayram Co\u015fkuner", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "name": "Turay Dinleyen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "b359fdcb-e48a-414e-bfb4-539d54a5bb85", 
+            "name": "Tahir Aydo\u011fdu", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "0646f827-cfe4-43b6-8ffd-26c697fbc9ad", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "k\u00fcrdilihicazkar", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Kurdilihicazkar Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "eb9d70ae-a81b-4a31-bcd6-bd5824cc7eae", 
+                    "name": "Resat Aysu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "38f84f28-9841-4327-9201-8f2049a7c3b0", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Saz Semaisi"
+        }
+    ]
+}

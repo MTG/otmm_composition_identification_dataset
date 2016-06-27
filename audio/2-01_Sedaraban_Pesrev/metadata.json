@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "piano"
+            ], 
+            "mbid": "4de81b76-c926-4e0c-ab6c-f216adb7322b", 
+            "name": "Piyanist Cemal Bey", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "5ba945f0-6c34-4807-9411-9a81b9864eb9", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u015fedaraban", 
+        "usul": "fahte"
+    }, 
+    "title": "Sedaraban Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "83291c8a-4ef1-4ffc-8b50-3fc03890f5a4", 
+            "score": {
+                "name": "sedaraban--pesrev--fahte----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sedaraban Pesrevi"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "name": "Bekir Reha Sa\u011fba\u015f", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "196475ff-d7f0-42e1-855b-286aa82ebf4f", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "suzinak", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Suznak Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "41b5769b-400d-471d-83b9-ce87a8f01dc3", 
+                    "name": "Tanburi Emin Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "96a764c6-d4f9-40e7-8176-2aa94edac639", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Suzinak Sazsemaisi"
+        }
+    ]
+}

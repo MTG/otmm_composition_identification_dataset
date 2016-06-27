@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "686ba464-c9c8-44e4-946b-74ed7c5e1a74", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "ferahnak", 
+        "usul": "\u00e7ifted\u00fcyek"
+    }, 
+    "title": "Ferahnak Pesrev (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fcc3214c-4a42-4e97-ba32-91a4d7820594", 
+                    "name": "Tanburi Zeki Mehmet Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "bf231613-3aea-44e1-bd86-6c9beeaa18f7", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahnak Pesrev"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "ba3a25a1-6f05-4224-86f4-c5d25870e4bd", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "mahur"
+    }, 
+    "title": "Mahur Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+                    "name": "Dede Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "5a32f66b-0585-486f-bb2c-16f510f34864", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mahur Pesrevi"
+        }
+    ]
+}

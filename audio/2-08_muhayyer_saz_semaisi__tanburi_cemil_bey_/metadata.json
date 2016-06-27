@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "28208614-7bf0-4df5-8f34-14e6ec37cbf9", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "muhayyer", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Muhayyer Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ac003195-9ea0-4d8e-8420-2d6c269e98f6", 
+            "score": {
+                "name": "muhayyer--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Muhayyer Sazsemaisi"
+        }
+    ]
+}

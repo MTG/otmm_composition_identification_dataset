@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "f5092a86-a2fe-4111-a742-ed33803acaf4", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "pesendide"
+    }, 
+    "title": "Pesendide Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "1ab5a8c5-4693-43e4-809d-353990423938", 
+                    "name": "Sultan III. Selim", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "d1086c07-fb1f-4eb2-9585-9f22ea850f12", 
+            "score": {
+                "name": "pesendide--sazsemaisi--aksaksemai----iii_selim", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Pesendide Saz Semaisi"
+        }
+    ]
+}

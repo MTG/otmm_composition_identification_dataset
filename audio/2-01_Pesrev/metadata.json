@@ -1,0 +1,49 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "93f4b48f-d708-4a48-8f94-9417fb0617d5", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "h\u00fczzam", 
+        "usul": "devrikebir"
+    }, 
+    "title": "Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "54f879f1-8114-48b7-b892-0d5594c4783f", 
+                    "name": "Tanburi Buyuk Osman Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "1ef86e00-6fee-45fd-bd5c-4b22853710f8", 
+            "score": {
+                "name": "huzzam--pesrev--devrikebir----tanburi_buyuk_osman_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Pesrev"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+                    "name": "Dede Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "826b1c80-e409-42c5-9f67-7a05a0ec2453", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Ayin-i Serif"
+        }
+    ]
+}

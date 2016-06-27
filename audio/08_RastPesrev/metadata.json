@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "279adb4a-a274-4f81-b679-48a7f24e10f9", 
+            "name": "Anastas Efendi", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "5d4397f8-37ef-4340-99f5-d934af028c91", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "rast", 
+        "usul": "d\u00fcyek"
+    }, 
+    "title": "Rast Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "5617c02f-8c47-4fda-9c3c-70dd5a471291", 
+            "score": {
+                "name": "rast--pesrev--muhammes----tatyos_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Rast Pesrev"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "rebab"
+            ], 
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "name": "Aziz \u015eenol Filiz", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "653e27dc-a7c5-4280-ae0a-80611943d12b", 
+            "name": "Birol Yayla", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "daire", 
+                "kud\u00fcm"
+            ], 
+            "mbid": "86353e17-d6a3-478e-8a27-a99fe59f7b15", 
+            "name": "Kamil Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "ef976cc3-bc67-4fd4-8420-c6c289af4104", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "k\u00fcrdi", 
+        "usul": "beref\u015fan"
+    }, 
+    "title": "Kurdi Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "d947f700-02c0-4ae0-9597-212f22db3e05", 
+                    "name": "Angeli", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "4124e972-4278-4638-922b-81ad4db9f49f", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdi Pesrevi"
+        }
+    ]
+}

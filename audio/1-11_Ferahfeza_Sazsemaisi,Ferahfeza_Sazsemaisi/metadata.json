@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "name": "Erc\u00fcmend Batanay", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "0fca8b08-0623-4de7-b89d-a71744023297", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "ferahfeza", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Ferahfeza Saz Semaisi (Udi Arsak'in)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "097338da-7309-48ed-a24a-3d17a1a3b444", 
+                    "name": "Udi Arsak Comlekciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "18a9743c-cf07-4a5b-9321-76ef1d9d8909", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahfeza Sazsemaisi"
+        }
+    ]
+}

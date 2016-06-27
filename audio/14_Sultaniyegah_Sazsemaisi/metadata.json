@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "a4ec49ac-c69a-4426-a8d1-f2966745c5c1", 
+            "name": "Taner Kalkulo\u011flu", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "2456f783-f021-4dbc-a7bb-e05b34dd8540", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "sultaniyegah", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Sultaniyegah Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5c0bf6d3-56f1-480a-a68d-bce3e5e521bd", 
+                    "name": "Kanuni Haci Arif Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "2e898944-fdac-44c4-a523-47ef94767d45", 
+            "score": {
+                "name": "sultaniyegah--sazsemaisi--aksaksemai----kanuni_haci_arif_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sultaniyegah Sazsemaisi"
+        }
+    ]
+}

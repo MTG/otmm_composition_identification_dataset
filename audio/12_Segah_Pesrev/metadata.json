@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "e4a32522-bec3-418b-a881-cb26a3147ed1", 
+            "name": "\u0130lhan Barut\u00e7u", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "ffbb13ed-4dd6-44b2-b790-166fab2a9fab", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "segah", 
+        "usul": "devrikebir"
+    }, 
+    "title": "Segah Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "463196f6-9604-49e6-afa2-f6bde8b1c1a9", 
+                    "name": "Neyzen Yusuf Pasa", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d", 
+            "score": {
+                "name": "segah--pesrev--devrikebir----neyzen_yusuf_pasa", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Segah Pesrev"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "5bbdd002-8e2e-4529-a9e1-ac30edab9a00", 
+            "name": "Can G\u00fclbol", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "52fb0080-4c80-44c0-858a-46e4a4bded0a", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "sultaniyegah", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Sultaniyegah Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5c0bf6d3-56f1-480a-a68d-bce3e5e521bd", 
+                    "name": "Kanuni Haci Arif Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "2e898944-fdac-44c4-a523-47ef94767d45", 
+            "score": {
+                "name": "sultaniyegah--sazsemaisi--aksaksemai----kanuni_haci_arif_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sultaniyegah Sazsemaisi"
+        }
+    ]
+}

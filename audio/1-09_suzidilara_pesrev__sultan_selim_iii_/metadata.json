@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "b83d6b70-d2f9-4b62-aa05-f92f5210a2f5", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "suzidilara", 
+        "usul": "a\u011f\u0131rd\u00fcyek"
+    }, 
+    "title": "Suzidilara Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "1ab5a8c5-4693-43e4-809d-353990423938", 
+                    "name": "Sultan III. Selim", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "72222f36-76f1-4663-a5bf-d16f7af09dfa", 
+            "score": {
+                "name": "suzidilara--pesrev--agirduyek----iii_selim", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Suzidilara Pesrev"
+        }
+    ]
+}

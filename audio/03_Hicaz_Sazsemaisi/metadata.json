@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "a4ec49ac-c69a-4426-a8d1-f2966745c5c1", 
+            "name": "Taner Kalkulo\u011flu", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "f0663f1b-8e51-4a9f-8695-e5b36ae9a562", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "hicaz", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Hicaz Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5337928f-0521-4946-814c-295351f2ed5c", 
+                    "name": "Refik Tal'at Alpman", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8caa157b-0163-4de7-8625-07e49f262a26", 
+            "score": {
+                "name": "hicaz--sazsemaisi--aksaksemai----refik_talat_alpman", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ]
+}

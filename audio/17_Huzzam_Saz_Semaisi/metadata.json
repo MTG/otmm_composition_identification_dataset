@@ -1,0 +1,52 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "70c6c7e5-c878-4d28-a07a-36bff1feecf5", 
+            "name": "Bayram Co\u015fkuner", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "ac61be44-cbd3-4f8e-9533-1642439fd34c", 
+            "name": "Turay Dinleyen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "b359fdcb-e48a-414e-bfb4-539d54a5bb85", 
+            "name": "Tahir Aydo\u011fdu", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "14e268f3-118f-41f8-b736-d2982570740a", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "h\u00fczzam", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Huzzam Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "025f6ee1-9536-4912-8758-20fbecf9b26f", 
+                    "name": "Udi Nevres Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "10cddd5e-6bd8-4c69-8561-0d0541f46f34", 
+            "score": {
+                "name": "huzzam--sazsemaisi--aksaksemai----udi_nevres_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Saz Semaisi"
+        }
+    ]
+}

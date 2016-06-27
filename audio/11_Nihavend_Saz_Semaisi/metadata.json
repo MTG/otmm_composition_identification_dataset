@@ -1,0 +1,43 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "piano"
+            ], 
+            "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+            "name": "Erkan Y\u00fcksel", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "d3ecbf8a-d5e5-4c97-a8a8-a9301c205115", 
+            "name": "Demir Karaba\u015f", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "edf83490-71d8-4905-a8d5-1a1dd6bda0ee", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "nihavent"
+    }, 
+    "title": "Nihavend Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+                    "name": "Erkan Yuksel", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "2add8ca7-4db2-461d-b4c5-164bee999f00", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nihavend Saz Semaisi"
+        }
+    ]
+}

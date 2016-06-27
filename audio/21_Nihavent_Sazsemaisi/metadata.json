@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "name": "Mutlu Torun", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "cd0f5fc7-ad85-4ab2-b7ae-4bea3dde6f95", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "nihavent", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Nihavent Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+                    "name": "Mesut Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "9bc17784-0c14-456d-8a59-f15e2c95b2d0", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nihavent Sazsemaisi"
+        }
+    ]
+}

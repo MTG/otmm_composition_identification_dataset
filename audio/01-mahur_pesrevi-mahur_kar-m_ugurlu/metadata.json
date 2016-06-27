@@ -1,0 +1,56 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "ea19e9d8-c8a8-4cb4-8b34-3dd681ad3de4", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "form1": "kar", 
+        "makam": "mahur", 
+        "usul": "d\u00fcyek", 
+        "usul1": "hafif"
+    }, 
+    "title": "Mahur Pesrevi / Mahur Kar", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8c386f72-3292-4345-a675-be187b414a5b", 
+                    "name": "Gazi Giray Han", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "3601efbc-b05b-4f54-ba07-584a842de72e", 
+            "score": {
+                "name": "mahur--pesrev--duyek----gazi_giray_han", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mahur Pesrevi"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "59410310-f103-450f-a529-9f05b0aed4ef", 
+                    "name": "Abdulkadir Meragi", 
+                    "type": "composer"
+                }, 
+                {
+                    "mbid": "ac745879-58cd-40eb-a4c0-ee57082c98cc", 
+                    "name": "Hafiz-i Sirazi", 
+                    "type": "lyricist"
+                }
+            ], 
+            "mbid": "c9c5f64a-69b6-4922-9114-5451c328ffc4", 
+            "score": {
+                "name": "mahur--kar--hafif--gul_bi-ruh-i--abdulkadir_meragi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Gul Bi-ruh Yari Hos Ne Based"
+        }
+    ]
+}

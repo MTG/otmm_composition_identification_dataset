@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "name": "Enver Mete Aslan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "68f9d530-c333-4115-942e-e07c5d918285", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "k\u00fcrdilihicazkar", 
+        "usul": "a\u011f\u0131rd\u00fcyek"
+    }, 
+    "title": "Kurdilihicazkar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "e3d3f39f-f597-41c6-858d-e04b6ecd65c3", 
+                    "name": "Vasilaki Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
+            "score": {
+                "name": "kurdilihicazkar--pesrev--agirduyek----vasilaki", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Pesrev"
+        }
+    ]
+}

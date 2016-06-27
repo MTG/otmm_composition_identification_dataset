@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "0ce3234e-1833-4084-80ea-e977bae29a4a", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "suzinak", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Suzinak Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "4d9f459a-8d11-4499-8a32-b3ed2ec43f77", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Suzinak Sazsemaisi"
+        }
+    ]
+}

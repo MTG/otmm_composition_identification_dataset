@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "c97a6fd9-e5db-49c1-a5ba-2b14b790b548", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "nikriz", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Nikriz Saz Semai", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "182d7cac-7ade-4712-8865-7ecbc98d719e", 
+                    "name": "Refik Fersan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "610cdc9c-598a-4417-bd7d-d99c93b8c339", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nikriz Sazsemaisi"
+        }
+    ]
+}

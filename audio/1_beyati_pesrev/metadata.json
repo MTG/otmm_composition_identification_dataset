@@ -1,0 +1,50 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
+            "name": "Fikret Karakaya", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "11e67d6b-1102-45bf-83c0-70a2177e4a3a", 
+            "name": "Ayhan \u00c7ak\u0131r", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "08958b87-43f4-4bf3-a6ed-89cf27cf3986", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "beyati", 
+        "usul": "hafif"
+    }, 
+    "title": "Beyati Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fcc1e11e-97cf-41a3-9d66-76a944c96968", 
+                    "name": "Seyfettin Osmanoglu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "831d4801-0562-491f-922b-f6f987d19b3d", 
+            "score": {
+                "name": "beyati--pesrev--hafif----seyfettin_osmanoglu", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Beyati Pesrev"
+        }
+    ]
+}

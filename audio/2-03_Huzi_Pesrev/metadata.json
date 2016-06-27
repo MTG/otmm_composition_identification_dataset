@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "035781a4-af23-448d-bdc4-24efc21be0c1", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "huzi", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Huzi Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b411ffc2-e054-4d2c-85a3-adfa8f57e944", 
+                    "name": "Corci", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "76c32040-f606-4d95-bf72-e42c27893f2a", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzi Pesrev"
+        }
+    ]
+}

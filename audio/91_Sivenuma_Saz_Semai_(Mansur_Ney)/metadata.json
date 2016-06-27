@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "5d91d92d-7e1b-401b-be12-81f5ae51dbe1", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u015fiven\u00fcma"
+    }, 
+    "title": "Sivenuma Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "a923198e-2d5a-4e97-b313-42084e5a150a", 
+                    "name": "Neyzen Emin Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "5f5e5700-b704-4ecd-b86e-93a566aa6203", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sivenuma Sazsemaisi"
+        }
+    ]
+}

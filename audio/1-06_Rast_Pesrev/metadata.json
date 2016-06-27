@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "e06328bc-0ddb-49ef-9c5c-31a881485d0b", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "rast", 
+        "usul": "d\u00fcyek"
+    }, 
+    "title": "Rast Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "5617c02f-8c47-4fda-9c3c-70dd5a471291", 
+            "score": {
+                "name": "rast--pesrev--muhammes----tatyos_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Rast Pesrev"
+        }
+    ]
+}

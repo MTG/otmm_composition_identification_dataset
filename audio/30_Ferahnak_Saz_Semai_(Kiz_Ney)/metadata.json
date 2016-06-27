@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "26013c17-6ea6-46a5-9dd7-310aefd9a185", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "ferahnak", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Ferahnak Saz Semai (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "625748ed-b240-48c5-bb7c-ef709dd30cc4", 
+                    "name": "Kemani Ali Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "5e3f5425-001b-4ce0-8107-6f2a9f6d38a4", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahnak Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "c49b942f-a23a-43e5-b3e2-e76f500cde96", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "suzidil", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Suzidil Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "64b8dcaa-03a4-48e8-919f-362ebb57809a", 
+                    "name": "Tanburi Ali Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "40300628-d472-4232-81ce-df599f4fbacc", 
+            "score": {
+                "name": "suzidil--pesrev--devrikebir----tanburi_ali_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Suzidil Pesrev"
+        }
+    ]
+}

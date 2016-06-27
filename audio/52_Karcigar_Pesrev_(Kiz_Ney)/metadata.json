@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "b01042b9-18c1-4e1e-9380-4353190945b2", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "karc\u0131\u011far"
+    }, 
+    "title": "Karcigar Pesrev (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "01510767-677e-4c52-aed4-3e18e2fd2c61", 
+            "score": {
+                "name": "karcigar--pesrev--cifteduyek----tatyos_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Karcigar Pesrev"
+        }
+    ]
+}

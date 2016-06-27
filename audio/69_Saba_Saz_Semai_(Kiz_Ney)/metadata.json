@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "43fd753c-9c78-4eba-b75f-a08cbd45b4d8", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "saba"
+    }, 
+    "title": "Saba Saz Semai (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "a6775723-69b6-4997-82da-bf230b1f8655", 
+                    "name": "Neyzen Aziz Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "6660aaa1-95ec-44f7-a3dd-1dbfa0c01107", 
+            "score": {
+                "name": "saba--sazsemaisi--aksaksemai----neyzen_aziz_dede", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Saba Sazsemaisi"
+        }
+    ]
+}

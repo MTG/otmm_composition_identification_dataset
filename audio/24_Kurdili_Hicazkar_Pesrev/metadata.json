@@ -1,0 +1,109 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "0960e70f-ac62-460a-86c4-4539e286b001", 
+            "name": "\u0130hsan G\u00fcndiyer", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "25097a3d-03e9-4d57-a159-ebb9143379ed", 
+            "name": "Ali N. Askin", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "2843dde9-4f34-415f-abce-df3c142d406e", 
+            "name": "Mehmet Dolguny\u00fcrek", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "ney"
+            ], 
+            "mbid": "2e06c7c2-c2fd-4484-8b28-b8d9efe0e9d1", 
+            "name": "Haluk Derin\u00f6z", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "43f14d88-8f74-4254-9837-6c9350b03f27", 
+            "name": "\u00d6mer Yaman", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello", 
+                "double bass / contrabass / acoustic upright bass"
+            ], 
+            "mbid": "5a68da84-b56f-4780-8f47-3b07e1b4d5a3", 
+            "name": "Emin Safa Sa\u011fba\u015f", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "618e982e-4df7-41e5-bec3-674f9fe33e95", 
+            "name": "A. Y\u0131ldan Dirik", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "saz"
+            ], 
+            "mbid": "6b31f595-1fee-4bae-9cf9-fa3810731fed", 
+            "name": "\u0130brahim Oytun", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "mbid": "85015e35-c8d5-42f2-bd68-60483874bf6d", 
+            "name": "H\u00fcseyin Turna", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "d9a58619-ec31-4bcc-a0b6-54b6c1e6a96a", 
+            "name": "Sedat G\u00fcndiyer", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "4ac225ac-578b-49b1-b288-33bd9bf89486", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "k\u00fcrdilihicazkar", 
+        "usul": "a\u011f\u0131rd\u00fcyek"
+    }, 
+    "title": "Kurdili Hicazkar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "e3d3f39f-f597-41c6-858d-e04b6ecd65c3", 
+                    "name": "Vasilaki Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
+            "score": {
+                "name": "kurdilihicazkar--pesrev--agirduyek----vasilaki", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Pesrev"
+        }
+    ]
+}

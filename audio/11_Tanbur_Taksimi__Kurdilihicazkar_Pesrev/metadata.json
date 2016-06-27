@@ -1,0 +1,46 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "percussion"
+            ], 
+            "mbid": "279d2704-2462-4ebe-8230-2fc7af3dcd9c", 
+            "name": "Serdar Erba\u015f\u0131", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "3c334962-91e1-4766-8a3b-12b2e2fb48f3", 
+    "tags": {
+        "form": "taksim", 
+        "form1": "pe\u015frev", 
+        "makam": "k\u00fcrdilihicazkar", 
+        "usul": "serbest", 
+        "usul1": "muhammes"
+    }, 
+    "title": "Tanbur Taksimi, Kurdilihicazkar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "d689c032-ab60-4162-b872-b56cf3b24db6", 
+            "score": {
+                "name": "kurdilihicazkar--pesrev--muhammes----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Pesrevi"
+        }
+    ]
+}

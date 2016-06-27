@@ -1,0 +1,93 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "folk harp"
+            ], 
+            "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
+            "name": "Fikret Karakaya", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "rebab"
+            ], 
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "name": "Aziz \u015eenol Filiz", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "31d36a7a-aeb2-4f4f-b230-bafbddc9a7e3", 
+            "name": "Akg\u00fcn \u00c7\u00f6l", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "komuz"
+            ], 
+            "mbid": "653e27dc-a7c5-4280-ae0a-80611943d12b", 
+            "name": "Birol Yayla", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "6d47c26c-2a6d-4f34-a7c5-4b2bd61b21fc", 
+            "name": "Serap \u00c7a\u011flayan", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "daire", 
+                "kud\u00fcm"
+            ], 
+            "mbid": "86353e17-d6a3-478e-8a27-a99fe59f7b15", 
+            "name": "Kamil Bilgin", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "lute"
+            ], 
+            "mbid": "e54fd669-ec68-4807-8e9e-dcd861c62f69", 
+            "name": "Osman K\u0131rkl\u0131k\u00e7\u0131", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "4fbc1fec-4f22-442a-9127-e67c333ad42e", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "evi\u00e7", 
+        "usul": "darb-\u0131 fetih"
+    }, 
+    "title": "Evc Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "59c2dcd6-642d-4cde-ae99-85cf3e0974b4", 
+                    "name": "Acemlerin", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "29fe2cc8-117a-42c9-b679-8593c8a9607a", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Evic Pesrev"
+        }
+    ]
+}

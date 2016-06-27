@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "5889b038-303c-44d4-97d8-dfdacc78d8ff", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "yegah", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Yegah Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "a6775723-69b6-4997-82da-bf230b1f8655", 
+                    "name": "Neyzen Aziz Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8457bce2-07f0-4502-ae86-19b61c6bb77e", 
+            "score": {
+                "name": "yegah--sazsemaisi--aksaksemai----neyzen_aziz_dede", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Yegah Sazsemaisi"
+        }
+    ]
+}

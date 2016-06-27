@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "544b9c80-0c96-41cd-9b33-7e7da256a73f", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "sultaniyegah"
+    }, 
+    "title": "Sultani-Yegah Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5c0bf6d3-56f1-480a-a68d-bce3e5e521bd", 
+                    "name": "Kanuni Haci Arif Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "2e898944-fdac-44c4-a523-47ef94767d45", 
+            "score": {
+                "name": "sultaniyegah--sazsemaisi--aksaksemai----kanuni_haci_arif_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sultaniyegah Sazsemaisi"
+        }
+    ]
+}

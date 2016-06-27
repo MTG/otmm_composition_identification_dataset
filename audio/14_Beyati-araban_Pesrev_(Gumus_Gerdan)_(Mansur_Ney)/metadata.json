@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "0b383dd2-14b4-4081-954f-d968bcf8004d", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "beyati-araban"
+    }, 
+    "title": "Beyati-araban Pesrev (Gumus Gerdan) (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8c386f72-3292-4345-a675-be187b414a5b", 
+                    "name": "Gazi Giray Han", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "e63690c8-f2e9-4f49-908c-8f931bd36827", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Beyati-araban Pesrev"
+        }
+    ]
+}

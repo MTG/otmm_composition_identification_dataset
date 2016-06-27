@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "5a5c86c1-1778-467e-b9a3-745a5e9f2879", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "segah"
+    }, 
+    "title": "Segah Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "21da6f68-9427-458e-b60f-1cde13d6f4f1", 
+                    "name": "Papaz", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "0cae5c06-6299-47e3-951c-bbc73493f223", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Segah Pesrev"
+        }
+    ]
+}

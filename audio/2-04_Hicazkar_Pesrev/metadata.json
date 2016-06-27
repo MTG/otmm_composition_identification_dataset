@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+            "name": "Tanburi Cemil Bey", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "7586560f-2457-485e-a099-41b45e9af5ab", 
+            "name": "\u015eevki Bey", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "662ce606-ab89-4dbe-a0db-ec40eef6e6f3", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "hicazkar", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Hicazkar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "54f879f1-8114-48b7-b892-0d5594c4783f", 
+                    "name": "Tanburi Buyuk Osman Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "a2359815-ad37-4b87-b1c3-f58f738ab73a", 
+            "score": {
+                "name": "hicazkar--pesrev--devrikebir----tanburi_buyuk_osman_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicazkar Pesrev"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "a4ec49ac-c69a-4426-a8d1-f2966745c5c1", 
+            "name": "Taner Kalkulo\u011flu", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "9e464a18-96c4-46c6-9e00-7d1a32b8b312", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "k\u00fcrdilihicazkar", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Kurdilihicazkar Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "eb9d70ae-a81b-4a31-bcd6-bd5824cc7eae", 
+                    "name": "Resat Aysu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "38f84f28-9841-4327-9201-8f2049a7c3b0", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Saz Semaisi"
+        }
+    ]
+}

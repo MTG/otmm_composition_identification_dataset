@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "name": "Mutlu Torun", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "6f49b674-4843-4577-8dcd-3b06c9851c65", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "karc\u0131\u011far", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Karcigar Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b2415292-1cf4-4dc9-beea-3c350aba930b", 
+                    "name": "Hasan Ferit Alnar", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "263ec746-c61d-4d79-a67b-99e86387c29a", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Karcigar Sazsemaisi"
+        }
+    ]
+}

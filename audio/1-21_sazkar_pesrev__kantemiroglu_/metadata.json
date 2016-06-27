@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "aa0ada25-4c87-4c97-9103-64ffc1cd7776", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "sazkar", 
+        "usul": "havi"
+    }, 
+    "title": "Sazkar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "853620fb-99c3-4b16-9c27-ee37c4e0a330", 
+                    "name": "Dimitri Cantemir", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "05caca05-6f1b-4e5c-aaff-5aa08a40b022", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sazkar Pesrev"
+        }
+    ]
+}

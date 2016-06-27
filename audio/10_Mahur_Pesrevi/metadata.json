@@ -1,0 +1,43 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "b5e91522-304b-4492-8d5e-7f06a1200f5b", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "mahur"
+    }, 
+    "title": "Mahur Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b83168b7-91aa-4900-ba25-84146fedf915", 
+                    "name": "Rauf Yekta Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "32a9c5dc-1e57-47dc-9b97-6e0a611df9e4", 
+            "score": {
+                "name": "mahur--pesrev--hafif----rauf_yekta", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mahur Pesrevi"
+        }
+    ]
+}

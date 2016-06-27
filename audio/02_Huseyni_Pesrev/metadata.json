@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "5ed8e36f-50fa-4912-b380-e0a2549ca606", 
+            "name": "Alper Uzkur", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "d858c208-8ab3-4588-b1d7-f54d24a72f20", 
+            "name": "Turgut \u00d6z\u00fcfler", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "e26140e6-0b60-4849-8143-c504a96a0139", 
+            "name": "Hasan Nar", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "fbd684b5-7204-4e39-9286-ad4ae5eb481b", 
+            "name": "Ba\u015far Dikici", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "cd43d6c1-d8d1-4481-ba49-68904f3a89f1", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "h\u00fcseyni", 
+        "usul": "muhammes"
+    }, 
+    "title": "Huseyni Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "81287063-9c1b-42f0-bf5a-8ecaf6a84d08", 
+                    "name": "Lavtaci Andon", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "db260504-980d-4a3b-8dff-90966c2989f6", 
+            "score": {
+                "name": "huseyni--pesrev--muhammes----lavtaci_andon", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huseyni Pesrev"
+        }
+    ]
+}

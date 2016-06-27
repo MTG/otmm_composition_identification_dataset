@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "1fee0e91-31ac-4f09-b531-4bd550bd133c", 
+            "name": "Udi Yorgo Bacanos", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "4e506db6-daa5-4c30-8195-eee334d64d80", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "k\u00fcrdilihicazkar", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Kurdilihicazkar Pesrev (Tatyos Efendi)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "caf01faf-7e0e-4463-ac27-6d56c9055434", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Pesrev"
+        }
+    ]
+}

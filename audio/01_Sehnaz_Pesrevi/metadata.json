@@ -1,0 +1,166 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "230670ce-4f8c-4515-9a99-b747b7bd53c5", 
+            "name": "Ahmet Meter", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "clarinet"
+            ], 
+            "mbid": "3411c847-4801-4a19-893c-521e5719cf44", 
+            "name": "\u015e\u00fckr\u00fc Kabac\u0131", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "bendir", 
+                "darbuka"
+            ], 
+            "mbid": "4cf7b5e6-3dc6-422a-b1a6-1342340ec041", 
+            "name": "Seyfettin Ura\u015f", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "4d3ff01d-71c1-4c1c-9a44-4e4448cfb9f8", 
+            "name": "\u00d6zer Arkun", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "name": "Fahrettin \u00c7imenli", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "daf", 
+                "darbuka", 
+                "zill"
+            ], 
+            "mbid": "b5e2f977-cadd-458a-8171-cafdfe6a331c", 
+            "name": "Fahrettin Yark\u0131n", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "cab02cb9-d0b2-4ba5-8ea3-e5c6ab46b005", 
+            "name": "Baki Kemanc\u0131", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "viola"
+            ], 
+            "mbid": "cdb989b5-6c10-4a9f-9788-fc47e3a4733c", 
+            "name": "\u0130brahim \u015eent\u00fcrker", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "cdc69411-25f2-4fe3-88e5-41da2b8c474b", 
+            "name": "Ayhan \u015eenyaylar", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "d695dfaa-01f8-4a16-a538-5ccbad58de19", 
+            "name": "Yurdal Tokcan", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "df0ac610-a810-4e74-a767-57fe69495953", 
+            "name": "Hasan Esen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "ec6ed4c6-d7e4-4911-9234-30720f72abc8", 
+            "name": "Timur \u015eenyaylar", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "f1b1b605-59d0-4ef7-b2a6-1f0256187caa", 
+            "name": "Tar\u0131k Kemanc\u0131", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "f7ff9d2d-bb1f-4595-b56d-f10099473276", 
+            "name": "Nam\u0131k Ta\u015fp\u0131narl\u0131", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "aa36f309-44be-49b8-b05c-89eaca289515", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u015fehnaz"
+    }, 
+    "title": "Sehnaz Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "625748ed-b240-48c5-bb7c-ef709dd30cc4", 
+                    "name": "Kemani Ali Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
+            "score": {
+                "name": "sehnaz--pesrev--zencir----kemani_ali_aga", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sehnaz Pesrev"
+        }
+    ]
+}

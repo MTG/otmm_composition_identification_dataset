@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "b5b11ae3-f859-449d-9084-5d8eb159719e", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "k\u00fcrdi", 
+        "usul": "beref\u015fan"
+    }, 
+    "title": "Kurdi Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "d947f700-02c0-4ae0-9597-212f22db3e05", 
+                    "name": "Angeli", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "4124e972-4278-4638-922b-81ad4db9f49f", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdi Pesrevi"
+        }
+    ]
+}

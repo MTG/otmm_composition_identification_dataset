@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "6bb283dc-c93b-45bc-9384-74fbee8cd63e", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "ferahfeza", 
+        "usul": "fahte"
+    }, 
+    "title": "Ferah-Feza Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "e3ee575c-8438-4e04-9790-c1337d93318c", 
+                    "name": "Muallim Ismail Hakki Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "979bcbad-e5f2-43ee-a222-dec01163ae5e", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahfeza Pesrev"
+        }
+    ]
+}

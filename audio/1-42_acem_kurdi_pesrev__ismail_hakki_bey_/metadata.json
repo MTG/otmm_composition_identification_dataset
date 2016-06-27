@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "ee3ddc10-02ed-40db-b392-7af8d51fa59c", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "acemk\u00fcrdi", 
+        "usul": "fahte"
+    }, 
+    "title": "Acemkurdi Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "e3ee575c-8438-4e04-9790-c1337d93318c", 
+                    "name": "Muallim Ismail Hakki Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "4abab307-e784-46fe-8a67-427d54b32511", 
+            "score": {
+                "name": "acemkurdi--pesrev--fahte----muallim_ismail_hakki_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemkurdi Pesrev"
+        }
+    ]
+}

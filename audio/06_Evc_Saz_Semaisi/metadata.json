@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "b711fc01-0210-484d-ac37-76ce4431279a", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "evi\u00e7"
+    }, 
+    "title": "Evc Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "50611b33-42a1-4cc4-b6dd-1a8716f39f2d", 
+                    "name": "Ahmet Sedat Oztoprak", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "c08c0594-cc01-4f32-8e9c-fe60949791dd", 
+            "score": {
+                "name": "evic--sazsemaisi--aksaksemai----sedat_oztoprak", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Evc Saz Semaisi"
+        }
+    ]
+}

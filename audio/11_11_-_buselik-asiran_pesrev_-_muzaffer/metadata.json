@@ -1,0 +1,69 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "rebab"
+            ], 
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "name": "Aziz \u015eenol Filiz", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "653e27dc-a7c5-4280-ae0a-80611943d12b", 
+            "name": "Birol Yayla", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "6d47c26c-2a6d-4f34-a7c5-4b2bd61b21fc", 
+            "name": "Serap \u00c7a\u011flayan", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "daire", 
+                "kud\u00fcm"
+            ], 
+            "mbid": "86353e17-d6a3-478e-8a27-a99fe59f7b15", 
+            "name": "Kamil Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "26bbfdfd-742b-4f1c-a94c-710c6708303f", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "buselik-a\u015firan", 
+        "usul": "sakil"
+    }, 
+    "title": "Buselik-Asirani Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b034e001-0d51-4854-b35b-2111fd74bb07", 
+                    "name": "Muzaffer Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "5f526b40-2c94-4064-a0d2-a1159ce9bde9", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Buselik-Asiran Pesrev"
+        }
+    ]
+}

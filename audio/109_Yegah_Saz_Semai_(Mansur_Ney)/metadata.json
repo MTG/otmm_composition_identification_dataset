@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "3ff9a9ce-de66-4efc-a62c-7bf9481273ab", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "yegah"
+    }, 
+    "title": "Yegah Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "a6775723-69b6-4997-82da-bf230b1f8655", 
+                    "name": "Neyzen Aziz Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8457bce2-07f0-4502-ae86-19b61c6bb77e", 
+            "score": {
+                "name": "yegah--sazsemaisi--aksaksemai----neyzen_aziz_dede", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Yegah Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "11e67d6b-1102-45bf-83c0-70a2177e4a3a", 
+            "name": "Ayhan \u00c7ak\u0131r", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "2a599dee-db7d-48fd-9a34-fd4e1023cfcc", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "h\u00fczzam", 
+        "usul": "muhammes"
+    }, 
+    "title": "Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fcc1e11e-97cf-41a3-9d66-76a944c96968", 
+                    "name": "Seyfettin Osmanoglu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "852232f7-e223-4561-9a22-313eb858c469", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Pesrev"
+        }
+    ]
+}

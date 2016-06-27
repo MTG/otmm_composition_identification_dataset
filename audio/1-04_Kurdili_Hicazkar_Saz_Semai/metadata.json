@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "120a0dfb-7873-46ca-a5bd-e7bccfe5bee3", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "k\u00fcrdilihicazkar", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Kurdili Hicazkar Saz Semai", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "eadeb598-7511-4a35-81f4-965e212f1980", 
+            "score": {
+                "name": "kurdilihicazkar--sazsemaisi--aksaksemai----tatyos_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Sazsemaisi"
+        }
+    ]
+}

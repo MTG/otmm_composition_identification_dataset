@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "4acf1b6d-910a-4540-9a8f-aadcef86eb0c", 
+            "name": "Niyazi Say\u0131n", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "a7069ec6-bdd1-464c-8ff6-c16da0c2fe2b", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u015fehnaz", 
+        "usul": "zencir"
+    }, 
+    "title": "Sehnaz Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "625748ed-b240-48c5-bb7c-ef709dd30cc4", 
+                    "name": "Kemani Ali Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
+            "score": {
+                "name": "sehnaz--pesrev--zencir----kemani_ali_aga", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sehnaz Pesrev"
+        }
+    ]
+}

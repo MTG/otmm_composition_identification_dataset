@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "da4a1bec-368a-4f7d-ae5a-679553698085", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "neva", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Neva Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "0abb62c1-0d4c-453f-aa3d-6c651a3c2557", 
+                    "name": "Yusuf Ziya Pasa", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "014f1baa-8650-4e9a-85d2-d388ff856e86", 
+            "score": {
+                "name": "neva--sazsemaisi--aksaksemai----yusuf_ziya_pasa", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Neva Sazsemaisi"
+        }
+    ]
+}

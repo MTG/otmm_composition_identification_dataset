@@ -1,0 +1,37 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai", 
+                "solo"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "0e12a513-e68c-49ad-9e32-5da64b6111f9", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "u\u015f\u015fak", 
+        "usul": "devrikebir"
+    }, 
+    "title": "Ussak Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "a85cb805-7c1e-4bd7-a3e8-ad2f354e4ad1", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ussak Pesrev"
+        }
+    ]
+}

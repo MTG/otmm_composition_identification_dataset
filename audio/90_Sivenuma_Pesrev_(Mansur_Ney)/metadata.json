@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "a4ba4a16-6b11-48fa-8fb4-0fc04d3f256b", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u015fiven\u00fcma"
+    }, 
+    "title": "Sivenuma Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "a923198e-2d5a-4e97-b313-42084e5a150a", 
+                    "name": "Neyzen Emin Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "d12286de-7bb9-4241-bea2-222fe0e042bb", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sivenuma Pesrev"
+        }
+    ]
+}

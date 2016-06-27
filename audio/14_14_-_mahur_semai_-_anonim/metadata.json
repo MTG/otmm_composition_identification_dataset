@@ -1,0 +1,93 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "folk harp"
+            ], 
+            "mbid": "0c8e8b5a-a1c5-400d-bc6a-f0928fbf6a79", 
+            "name": "Fikret Karakaya", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "pan flute"
+            ], 
+            "mbid": "1cd3f92c-2b4b-45af-b9a2-b70432271be3", 
+            "name": "Tugay Ba\u015far", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "rebab"
+            ], 
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "name": "Aziz \u015eenol Filiz", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "31d36a7a-aeb2-4f4f-b230-bafbddc9a7e3", 
+            "name": "Akg\u00fcn \u00c7\u00f6l", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "653e27dc-a7c5-4280-ae0a-80611943d12b", 
+            "name": "Birol Yayla", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "6d47c26c-2a6d-4f34-a7c5-4b2bd61b21fc", 
+            "name": "Serap \u00c7a\u011flayan", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "daire", 
+                "kud\u00fcm"
+            ], 
+            "mbid": "86353e17-d6a3-478e-8a27-a99fe59f7b15", 
+            "name": "Kamil Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "70dffb6d-1db6-4781-8d90-e4ff464eac94", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "mahur", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Mahur Semai", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "f731ccc4-e22a-43af-a747-64213329e088", 
+                    "name": "[anonymous]", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "aca9b678-c2b9-4bad-b07e-eff81af439d1", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mahur Sazsemaisi"
+        }
+    ]
+}

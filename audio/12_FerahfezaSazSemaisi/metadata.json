@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "2eb3e579-dae8-490f-9251-c604660f9f0c", 
+            "name": "Kemal Niyazi Seyhun", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "f08f758b-ebb0-4a3e-8129-bb044e9fbf4d", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "ferahfeza", 
+        "usul": "d\u00fcyek"
+    }, 
+    "title": "Ferahfeza Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
+                    "name": "Serif Muhittin Targan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "80a81c87-eb6e-40dc-b69a-e0712b4374f2", 
+            "score": {
+                "name": "ferahfeza--sazsemaisi--aksaksemai----serif_muhittin_targan", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahfeza Sazsemaisi"
+        }
+    ]
+}

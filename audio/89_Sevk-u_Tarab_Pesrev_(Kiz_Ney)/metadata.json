@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "81beaed9-bc02-44f3-b97a-d080775fa7fd", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u015fevkutarab"
+    }, 
+    "title": "Sevk-u Tarab Pesrev (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "343cb085-38ca-4470-93b7-fb93d592e670", 
+                    "name": "Abdulkadir Tore", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "b79a424f-fc54-4d76-b07e-3c3b4078ea5d", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sevkutarab Pesrev"
+        }
+    ]
+}

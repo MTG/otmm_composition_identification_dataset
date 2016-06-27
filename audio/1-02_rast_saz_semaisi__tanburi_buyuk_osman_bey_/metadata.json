@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "d17561a5-6fe6-47e6-a25b-c29cdd81288d", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "rast", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Rast Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "54f879f1-8114-48b7-b892-0d5594c4783f", 
+                    "name": "Tanburi Buyuk Osman Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "c3812e27-dca1-4867-bd48-fcdafa44d52b", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Rast Sazsemaisi"
+        }
+    ]
+}

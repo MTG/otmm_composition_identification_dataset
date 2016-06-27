@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "1a16c089-71c8-430d-ae02-50a905a99c8b", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "zavil"
+    }, 
+    "title": "Zavil Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fcc3214c-4a42-4e97-ba32-91a4d7820594", 
+                    "name": "Tanburi Zeki Mehmet Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "38fe4825-4ccd-464c-b08c-49a9423decfc", 
+            "score": {
+                "name": "zavil--pesrev--hafif----zeki_mehmet_aga", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Zavil Pesrev"
+        }
+    ]
+}

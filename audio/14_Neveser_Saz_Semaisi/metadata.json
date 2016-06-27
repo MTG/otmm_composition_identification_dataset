@@ -1,0 +1,52 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "3bac5ae0-59ef-45e3-a352-11bf7ba6b53a", 
+            "name": "G\u00f6ksel Baktagir", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "d695dfaa-01f8-4a16-a538-5ccbad58de19", 
+            "name": "Yurdal Tokcan", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "8d760333-12de-42bc-b5da-76898b99c069", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "neveser", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Neveser Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+                    "name": "Necdet Yasar", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "a33c03fb-c568-4cb9-b3de-b136aac2051a", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Neveser Saz Semaisi"
+        }
+    ]
+}

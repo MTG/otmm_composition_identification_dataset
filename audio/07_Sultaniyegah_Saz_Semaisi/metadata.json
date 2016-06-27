@@ -1,0 +1,43 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "91643742-9dd8-4aaf-a643-25f60336e1e9", 
+            "name": "U\u011fur Onuk", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "piano"
+            ], 
+            "mbid": "b05a838f-42b7-4f6c-9ab6-40df768a9821", 
+            "name": "Erkan Y\u00fcksel", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "e3914243-5077-401b-b40f-2a1b86e34c5b", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "sultaniyegah"
+    }, 
+    "title": "Sultaniyegah Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5c0bf6d3-56f1-480a-a68d-bce3e5e521bd", 
+                    "name": "Kanuni Haci Arif Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "2e898944-fdac-44c4-a523-47ef94767d45", 
+            "score": {
+                "name": "sultaniyegah--sazsemaisi--aksaksemai----kanuni_haci_arif_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sultaniyegah Sazsemaisi"
+        }
+    ]
+}

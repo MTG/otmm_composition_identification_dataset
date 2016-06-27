@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "92b24c6a-79a6-4054-babe-179671cef650", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "arazbarbuselik"
+    }, 
+    "title": "Arazbar Buselik Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "182d7cac-7ade-4712-8865-7ecbc98d719e", 
+                    "name": "Refik Fersan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ad2d62cb-6edc-440a-b57c-7ceae4508795", 
+            "score": {
+                "name": "arazbarbuselik--sazsemaisi--aksaksemai----refik_fersan", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Arazbar Buselik Saz Semaisi"
+        }
+    ]
+}

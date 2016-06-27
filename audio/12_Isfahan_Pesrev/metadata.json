@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "5bbdd002-8e2e-4529-a9e1-ac30edab9a00", 
+            "name": "Can G\u00fclbol", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "bcbf6739-2627-46f0-afad-a6cf0ae31f23", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u0131sfahan", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Isfahan Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "83534641-ebbc-488d-86f5-5603518dde5c", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Isfahan Pesrev"
+        }
+    ]
+}

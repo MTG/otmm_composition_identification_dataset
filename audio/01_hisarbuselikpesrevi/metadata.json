@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "84e73a0e-f650-4ade-b437-69387d3d4063", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "hisarbuselik"
+    }, 
+    "title": "Hisarbuselik Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "dce463ff-daab-4d4d-879e-62e77e71f3f9", 
+                    "name": "Senturk Deveci", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "876f179e-322d-4c57-b270-5b38073b1b0b", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hisarbuselik Pesrev"
+        }
+    ]
+}

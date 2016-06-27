@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "9ce50b58-7621-44cf-a467-90bea732ba34", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "hicaz"
+    }, 
+    "title": "Hicaz Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5337928f-0521-4946-814c-295351f2ed5c", 
+                    "name": "Refik Tal'at Alpman", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8caa157b-0163-4de7-8625-07e49f262a26", 
+            "score": {
+                "name": "hicaz--sazsemaisi--aksaksemai----refik_talat_alpman", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ]
+}

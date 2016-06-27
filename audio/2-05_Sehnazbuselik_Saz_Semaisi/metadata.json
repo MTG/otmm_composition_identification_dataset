@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "50611b33-42a1-4cc4-b6dd-1a8716f39f2d", 
+            "name": "Ahmet Sedat \u00d6ztoprak", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "7aa9d35f-dc35-4fd1-bd2a-c87d702527c6", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u015fehnazbuselik", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Sehnazbuselik Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "50611b33-42a1-4cc4-b6dd-1a8716f39f2d", 
+                    "name": "Ahmet Sedat Oztoprak", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "17225c5c-a132-4d2a-a27e-53c23e3912be", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sehnazbuselik Sazsemaisi"
+        }
+    ]
+}

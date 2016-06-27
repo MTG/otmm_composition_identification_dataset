@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "01d41834-848c-460e-b374-f746724bcb60", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "nihavent"
+    }, 
+    "title": "Nihavend Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "14ba9c4e-103f-4511-b315-6d4bdea89497", 
+                    "name": "Neyzen Tevfik", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "66ab464b-4097-4720-ac81-81a702312eb5", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nihavent Sazsemaisi"
+        }
+    ]
+}

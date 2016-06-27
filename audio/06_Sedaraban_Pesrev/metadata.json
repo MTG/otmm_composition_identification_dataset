@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "name": "Necati \u00c7elik", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "e4a168f1-4e59-43c8-bf87-81a65dbe5abb", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u015fedaraban", 
+        "usul": "hafif"
+    }, 
+    "title": "Sedaraban Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "182d7cac-7ade-4712-8865-7ecbc98d719e", 
+                    "name": "Refik Fersan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8347e5eb-bda1-420f-a230-278ef9f78bca", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sedaraban Pesrev"
+        }
+    ]
+}

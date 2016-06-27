@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "3577ef76-fe42-41f0-9ce5-205071a0523a", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "hicaz", 
+        "usul": "darbeyn"
+    }, 
+    "title": "Hicaz Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "f57f6a81-8e70-4a76-8962-8276127cb8f3", 
+                    "name": "Katip Celebi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "7f607dde-81f8-4d91-bad8-249532510105", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicaz Pesrev"
+        }
+    ]
+}

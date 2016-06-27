@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "c470e6d2-320d-47a8-9daa-e2febd6cf4ae", 
+            "name": "Enver Mete Aslan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "56668c02-d4b3-49ab-be57-da3b808d5a07", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "buselik", 
+        "usul": "muhammes"
+    }, 
+    "title": "Buselik Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8c90679b-cc2a-453f-a3c2-19976ffaa367", 
+                    "name": "Kemenceci Nikolaki", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "4eba73f7-6152-4899-8747-1743a525b8ca", 
+            "score": {
+                "name": "buselik--pesrev--muhammes----nikolaki", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Buselik Pesrev"
+        }
+    ]
+}

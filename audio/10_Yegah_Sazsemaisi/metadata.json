@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "5bbdd002-8e2e-4529-a9e1-ac30edab9a00", 
+            "name": "Can G\u00fclbol", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "214ad3ac-623a-49ff-a000-47e04519b854", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "yegah", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Yegah Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "ca235097-a13b-42e6-8f36-2540a4561c48", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Yegah Sazsemaisi"
+        }
+    ]
+}

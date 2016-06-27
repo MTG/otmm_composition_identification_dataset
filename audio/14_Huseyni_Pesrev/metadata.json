@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "5bbdd002-8e2e-4529-a9e1-ac30edab9a00", 
+            "name": "Can G\u00fclbol", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "9bf69f7d-b944-47da-81a0-b320d084621d", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "h\u00fcseyni", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Huseyni Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "1f7aca80-06c7-442c-a66d-eb7ba06ea717", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huseyni Pesrev"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "160130d5-bf6f-467b-8fee-f31fae1328c7", 
+            "name": "Buse Sever", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "1fe3983b-db99-459d-b2c6-07a6b4d0142a", 
+            "name": "Esra Berkman", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "954f540c-33e4-4a39-8ea4-42b833946f26", 
+            "name": "U\u011furcan Sesler", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "b3c3314b-a470-4f42-b438-e2d8d81e603d", 
+            "name": "\u00c7a\u011flar K\u0131r\u00f6mero\u011flu", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "c1432312-3f2a-4263-84cf-a667dfcfbf35", 
+            "name": "Murat Polat", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "viola"
+            ], 
+            "mbid": "d5572546-fbe3-4e80-a166-696498bf34b3", 
+            "name": "\u015eule \u00c7akar", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "00ab81ec-07f8-47ba-9610-47ad56393eb9", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "nihavent", 
+        "usul": "senginsemai"
+    }, 
+    "title": "Nihavend Saz Semai", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "edc19ca1-5ff3-4c7c-8697-d091af8c91ef", 
+                    "name": "Hasip Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8ff4d355-dd46-4074-b266-aeacabaf875a", 
+            "score": {
+                "name": "nihavent--sazsemaisi--senginsemai----erzurumlu_hasib_dede", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nihavend Saz Semai"
+        }
+    ]
+}

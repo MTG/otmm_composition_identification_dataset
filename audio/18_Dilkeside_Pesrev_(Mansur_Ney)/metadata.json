@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "7ff2ac43-2011-4138-a54e-84175696d79e", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "dilke\u015fide"
+    }, 
+    "title": "Dilkeside Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fedc168c-c716-4fa0-a093-7615cfef2d04", 
+                    "name": "Neyzen Rasid Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8099d2b7-cea0-4c67-a727-6a7caab2d5d4", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Dilkeside Pesrev"
+        }
+    ]
+}

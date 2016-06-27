@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "5bbdd002-8e2e-4529-a9e1-ac30edab9a00", 
+            "name": "Can G\u00fclbol", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "9d13f50f-8534-4b37-be09-7235c53ce1d6", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "m\u00fcstear"
+    }, 
+    "title": "Mustear Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "6e72677b-2375-4c92-9b48-07a6b0a8e7aa", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mustear Pesrev"
+        }
+    ]
+}

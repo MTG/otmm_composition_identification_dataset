@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "21c28254-eb2d-4483-81c5-9cfcccb588b2", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "acem"
+    }, 
+    "title": "Acem Saz Semai (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "0ea6df7d-8fbd-47e0-9c16-c55c8c4ff171", 
+                    "name": "Nuri Halil Poyraz", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "32384c71-e138-4aac-9d10-537e674ee091", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acem Saz Semai"
+        }
+    ]
+}

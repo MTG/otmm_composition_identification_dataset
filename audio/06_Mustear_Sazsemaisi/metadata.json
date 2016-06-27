@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
+            "name": "\u015eerif Muhittin Targan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "e944efc7-09de-4955-b02d-8ccbdd2799ee", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "m\u00fcstear", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Mustear Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b835519a-c5c2-4dea-8798-bc9a559c6e50", 
+                    "name": "Serif Muhittin Targan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "f94eed74-8df5-498a-acdc-70994563e998", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mustear Sazsemaisi"
+        }
+    ]
+}

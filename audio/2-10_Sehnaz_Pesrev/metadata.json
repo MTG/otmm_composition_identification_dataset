@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "6256ace7-f139-4a22-a5e2-e9e46bffb0d4", 
+            "name": "Fahrettin \u00c7imenli", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "5ebf92a1-245c-4fb9-8cde-356bdcc016a2", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u015fehnaz", 
+        "usul": "d\u00fcyek"
+    }, 
+    "title": "Sehnaz Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "e92c8a45-8bd0-40b0-bcc7-2c4c035c6605", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sehnaz Pesrev"
+        }
+    ]
+}

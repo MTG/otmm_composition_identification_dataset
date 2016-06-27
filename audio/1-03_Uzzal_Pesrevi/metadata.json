@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "5121835d-84fb-44c6-8eed-8a8da4c444ba", 
+            "name": "Ahmet \u015eahin", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "c5bd2eee-7fcb-4cc5-8481-a69f5caded75", 
+            "name": "Ruhi Ayangil", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "f7e5d6a4-7611-4fb9-a766-f7a5124963a5", 
+            "name": "\u00d6zer \u00d6zel", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "c0708571-7ced-4805-96f1-144f1147a31b", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "uzzal", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Uzzal Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "3fb37725-a675-4b4c-86bc-b8f7d4f98177", 
+                    "name": "Sultan IV. Murad", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "e47a998c-eefd-4a34-8bfb-25eeb45fadf6", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Uzzal Pesrev"
+        }
+    ]
+}

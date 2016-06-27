@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "89df4e91-0124-401a-996e-e88b3d7aac3b", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "neva", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Neva Pesrev (1. Hane - Teslim)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
+            "score": {
+                "name": "neva--pesrev--devrikebir----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Neva Pesrev"
+        }
+    ]
+}

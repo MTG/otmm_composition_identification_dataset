@@ -1,0 +1,55 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "10473d53-a780-4d67-8f3a-ee79829c6927", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "form1": "\u015fark\u0131", 
+        "makam": "h\u00fcseyni", 
+        "usul1": "y\u00fcr\u00fcksemai"
+    }, 
+    "title": "Huseyni Pesrevi / Ben Gibi Sana Asik-i Uftade Bulunmaz", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5c3d8f5d-7d2c-4d79-95b5-c2a0116c1c2a", 
+                    "name": "Tab'i Mustafa Efendi", 
+                    "type": "composer"
+                }, 
+                {
+                    "mbid": "f731ccc4-e22a-43af-a747-64213329e088", 
+                    "name": "[anonymous]", 
+                    "type": "lyricist"
+                }
+            ], 
+            "mbid": "9564e1a4-0463-4cc9-a28b-820a72e5dd50", 
+            "score": {
+                "name": "huseyni--yuruksemai--yuruksemai--ben_gibi--tabi_mustafa_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ben Gibi Sana Asik-i Uftade Bulunmaz"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "81287063-9c1b-42f0-bf5a-8ecaf6a84d08", 
+                    "name": "Lavtaci Andon", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "db260504-980d-4a3b-8dff-90966c2989f6", 
+            "score": {
+                "name": "huseyni--pesrev--muhammes----lavtaci_andon", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huseyni Pesrev"
+        }
+    ]
+}

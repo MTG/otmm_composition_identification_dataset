@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "31b24c3b-9072-44c5-87f9-7114f4d5c7fe", 
+            "name": "\u0130hsan \u00d6zgen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "virginal"
+            ], 
+            "mbid": "9238bbf6-b7c2-41c7-889e-299983dbca79", 
+            "name": "Linda Burman-Hall", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "percussion"
+            ], 
+            "mbid": "bc3cb127-9165-43d8-a7b1-a0e9152c8fe0", 
+            "name": "Mesut \u00d6zgen", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "ca437e5a-8dfa-4ee7-96b0-de69774365dd", 
+            "name": "David Wilson", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "579c2e3f-fb93-4819-ab9a-bc6148148f1f", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "bestenigar", 
+        "usul": "beref\u015fan"
+    }, 
+    "title": "Pesrev In Makam Bestenigar/ Usul Berefsan", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "853620fb-99c3-4b16-9c27-ee37c4e0a330", 
+                    "name": "Dimitri Cantemir", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "f7019dc4-24f9-47d2-96ba-795f57b9cae7", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Bestenigar Pesrev"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "b80cd1ab-a00c-4f98-89c1-a798deb2d5c2", 
+            "name": "Derya T\u00fcrkan", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "9a8f768c-a238-4626-aca5-0018b4fde79e", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "arazbar"
+    }, 
+    "title": "Arazbar Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "93506dfd-10cd-4473-9502-47ca826d4278", 
+                    "name": "Eyyubi Mehmed Celebi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "07b72770-37f4-4893-90ce-2d40f4c10b6d", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Arazbar Pesrevi"
+        }
+    ]
+}

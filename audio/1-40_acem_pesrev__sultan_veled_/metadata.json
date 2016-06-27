@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "dbfecf6b-6d71-4756-916c-cd8c77e4b8ce", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "acem", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Acem Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "3ca8a53c-684a-4b93-8f6d-b97f8b6ec486", 
+                    "name": "Sultan Veled", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "7f9302cd-bafe-4dea-aeca-9ae816b2d0e5", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acem Pesrev"
+        }
+    ]
+}

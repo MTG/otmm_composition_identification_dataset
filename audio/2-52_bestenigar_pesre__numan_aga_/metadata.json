@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "05893ab9-4fbe-4d70-8df0-9cb99cab297a", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "bestenigar", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Bestenigar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b38d3012-30bf-4bef-b8e2-e1a7d736ff13", 
+                    "name": "Numan Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "50e4d7c8-9268-488d-b891-ee696ae0f4e5", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Bestenigar Pesrevi"
+        }
+    ]
+}

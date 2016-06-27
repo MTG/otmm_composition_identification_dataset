@@ -1,0 +1,49 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "fb9a9a91-1cb4-4f94-afd9-85439fa986a8", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "ferahfeza", 
+        "usul": "devrikebir"
+    }, 
+    "title": "Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+                    "name": "Dede Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "b35f8221-5992-4585-9cb3-f153beaa4e62", 
+            "score": {
+                "name": "ferahfeza--pesrev--devrikebir----dede_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahfeza Pesrev"
+        }, 
+        {
+            "artists": [
+                {
+                    "mbid": "81081f45-a36e-4248-9d33-43d4a3445f6d", 
+                    "name": "Dede Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "c6cdec1a-8763-48dd-9aa9-ad89d5a5e322", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ferahfeza Ayin-i Serif"
+        }
+    ]
+}

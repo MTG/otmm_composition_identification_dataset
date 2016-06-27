@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "4eed90f3-9585-41ec-9e57-f11069576751", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "u\u015f\u015fak", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Ussak Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "2a8a9c73-e177-46bf-9d4e-dac5f44dd9f7", 
+                    "name": "Osman Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "98dedfb7-6126-4f5d-b6cc-dd70d701a250", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Ussak Pesrev"
+        }
+    ]
+}

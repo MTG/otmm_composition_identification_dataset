@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "4abe7f3d-34ba-43a2-97f6-8ec00d54366e", 
+            "name": "Vecihe Daryal", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "efa05e6c-2bed-4781-8ff8-26583104f241", 
+            "name": "Hadiye \u00d6t\u00fcgen", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "f2119b61-26f6-462f-83c2-af5c455b9902", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "hicaz", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Hicaz Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "5337928f-0521-4946-814c-295351f2ed5c", 
+                    "name": "Refik Tal'at Alpman", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8caa157b-0163-4de7-8625-07e49f262a26", 
+            "score": {
+                "name": "hicaz--sazsemaisi--aksaksemai----refik_talat_alpman", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicaz Sazsemaisi"
+        }
+    ]
+}

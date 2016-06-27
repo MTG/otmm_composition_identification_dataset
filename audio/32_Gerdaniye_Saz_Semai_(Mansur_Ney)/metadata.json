@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "258fb26a-b3db-410e-a953-11a687f9205f", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "gerdaniye", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Gerdaniye Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8beac5d4-4e27-477e-afe9-30848fdd6da0", 
+                    "name": "Suphi Ezgi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "e4a7b5ba-9dad-41f6-91d6-3080771e6a44", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Gerdaniye Sazsemai"
+        }
+    ]
+}

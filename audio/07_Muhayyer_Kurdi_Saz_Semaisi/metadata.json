@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "8c968ab9-1a75-4ad2-b4a1-faa1f51d0006", 
+            "name": "Taner Sayac\u0131o\u011flu", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "fa8d02f5-e47d-45ed-9194-5d01d956b519", 
+            "name": "Osman Nuri \u00d6zpekel", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "5dfb608a-bb6b-4d79-be94-61400fbf6f89", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "muhayyerk\u00fcrdi", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Muhayyer Kurdi Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "eb9d70ae-a81b-4a31-bcd6-bd5824cc7eae", 
+                    "name": "Resat Aysu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "b0640847-bb2c-4494-993c-8d6014748751", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Muhayyerkurdi Saz Semai"
+        }
+    ]
+}

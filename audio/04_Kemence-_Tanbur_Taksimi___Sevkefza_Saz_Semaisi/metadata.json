@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "d898b79b-e79a-4a61-9d32-481ce8620090", 
+    "tags": {
+        "form": "taksim", 
+        "form1": "sazsemaisi", 
+        "makam": "\u015fevkefza", 
+        "usul": "serbest", 
+        "usul1": "aksaksemai"
+    }, 
+    "title": "Kemence- Tanbur Taksimi / Sevkefza Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "03ee7b0d-3818-4236-9cfb-14810f310a9e", 
+                    "name": "Seyh Said Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "7d338307-ca89-4b5c-b93e-c797d0a4bf8d", 
+            "score": {
+                "name": "sevkefza--sazsemaisi--aksaksemai----said_dede", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sevkefza Sazsemaisi"
+        }
+    ]
+}

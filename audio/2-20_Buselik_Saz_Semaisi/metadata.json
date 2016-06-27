@@ -1,0 +1,43 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "ney"
+            ], 
+            "mbid": "215fd94e-6a6e-4ab3-98d8-7e81c873dd26", 
+            "name": "Aka G\u00fcnd\u00fcz Kutbay", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+            "name": "Mutlu Torun", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "2f356ede-270c-4632-a072-0e421ecd2212", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "buselik"
+    }, 
+    "title": "Buselik Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "ab923148-30d0-4c94-b5e3-ae7780fa0e73", 
+                    "name": "Mutlu Torun", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "bbdb01a7-a8d9-4571-861c-3de1b671a498", 
+            "score": {
+                "name": "buselik--sazsemaisi--aksaksemai----mutlu_torun", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Buselik Saz Semaisi"
+        }
+    ]
+}

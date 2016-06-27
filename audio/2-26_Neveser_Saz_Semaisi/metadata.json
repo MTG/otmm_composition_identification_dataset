@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "name": "Bekir Reha Sa\u011fba\u015f", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "529f6269-c05d-480e-b8f8-078a7af20073", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "neveser", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Neveser Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "2871a8ff-e2fa-4568-9562-0a5e3fe57330", 
+                    "name": "Kanuni Omer Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "f380b28b-8e9a-4069-9c6c-d9bb5b9e9e28", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Neveser Sazsemaisi"
+        }
+    ]
+}

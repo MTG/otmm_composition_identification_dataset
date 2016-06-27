@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "d52675eb-8f4f-4d68-ace2-c8c983ee7a45", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "saba", 
+        "usul": "\u00e7enber"
+    }, 
+    "title": "Saba Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "21da6f68-9427-458e-b60f-1cde13d6f4f1", 
+                    "name": "Papaz", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "975505d5-3462-40a5-80ee-a5a5a1a380ab", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Saba Pesrev"
+        }
+    ]
+}

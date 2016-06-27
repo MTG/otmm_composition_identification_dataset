@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai", 
+                "solo"
+            ], 
+            "mbid": "7d28c915-55b3-486e-9b10-f402e45badfb", 
+            "name": "Mehmet Arif Erdebil", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "af5e7ec4-7c21-4a5c-80e4-7f11db588631", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "segah"
+    }, 
+    "title": "Segah Saz Semai (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "2a8a9c73-e177-46bf-9d4e-dac5f44dd9f7", 
+                    "name": "Osman Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "611c119a-62a0-4238-bb18-9ffe50d84d8b", 
+            "score": {
+                "name": "segah--sazsemaisi--aksaksemai----nayi_osman_dede", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Segah Sazsemaisi"
+        }
+    ]
+}

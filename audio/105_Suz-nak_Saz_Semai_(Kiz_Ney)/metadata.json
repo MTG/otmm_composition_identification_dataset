@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "d25832ba-149f-488f-aa02-7dd8114c6f09", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "suzinak"
+    }, 
+    "title": "Suz-nak Saz Semai (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "a6775723-69b6-4997-82da-bf230b1f8655", 
+                    "name": "Neyzen Aziz Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "7200f6bb-01bf-4712-bb78-9069c0ca89b4", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Suzinak Sazsemaisi"
+        }
+    ]
+}

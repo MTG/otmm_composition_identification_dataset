@@ -1,0 +1,39 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "clarinet", 
+                "solo"
+            ], 
+            "mbid": "3411c847-4801-4a19-893c-521e5719cf44", 
+            "name": "\u015e\u00fckr\u00fc Kabac\u0131", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "18443478-1fa6-4668-a5c2-b4ffa5988ddc", 
+    "tags": {
+        "form": "taksim", 
+        "form1": "sazsemaisi", 
+        "makam": "k\u00fcrdilihicazkar", 
+        "usul": "serbest", 
+        "usul1": "aksaksemai"
+    }, 
+    "title": "Klarnet Taksim, Kurdili Hicazkar Saz Semai", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "eadeb598-7511-4a35-81f4-965e212f1980", 
+            "score": {
+                "name": "kurdilihicazkar--sazsemaisi--aksaksemai----tatyos_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Kurdilihicazkar Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+            "name": "[unknown]", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "c8566f03-9640-49be-b6f7-925b102d20ef", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "acemk\u00fcrdi", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Acemkurdi Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "e3ee575c-8438-4e04-9790-c1337d93318c", 
+                    "name": "Muallim Ismail Hakki Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "4abab307-e784-46fe-8a67-427d54b32511", 
+            "score": {
+                "name": "acemkurdi--pesrev--fahte----muallim_ismail_hakki_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemkurdi Pesrev"
+        }
+    ]
+}

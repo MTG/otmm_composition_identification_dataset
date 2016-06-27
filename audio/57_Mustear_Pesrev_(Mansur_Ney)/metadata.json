@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "fbc2b106-240d-44dd-ae25-8294e146faea", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "m\u00fcstear"
+    }, 
+    "title": "Mustear Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8c90679b-cc2a-453f-a3c2-19976ffaa367", 
+                    "name": "Kemenceci Nikolaki", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "4177db07-0b2c-4c28-8df5-37251cf0aa2a", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mustear Pesrev"
+        }
+    ]
+}

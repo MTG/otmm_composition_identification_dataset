@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "a7b5d6a9-e90b-44f9-9b70-9465bb8c9795", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "h\u00fczzam"
+    }, 
+    "title": "Devri Kebir", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "54f879f1-8114-48b7-b892-0d5594c4783f", 
+                    "name": "Tanburi Buyuk Osman Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "1ef86e00-6fee-45fd-bd5c-4b22853710f8", 
+            "score": {
+                "name": "huzzam--pesrev--devrikebir----tanburi_buyuk_osman_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Pesrev"
+        }
+    ]
+}

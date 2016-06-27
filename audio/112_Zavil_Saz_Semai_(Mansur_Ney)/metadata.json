@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "d27628c8-19a6-445d-b906-c4c62e3c31c6", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "zavil"
+    }, 
+    "title": "Zavil Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "ddd9f987-7d74-4579-9a91-950dc11ce35f", 
+                    "name": "Arif Mehmed Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "5a4675a8-146f-4d40-9213-1ed8f47bd596", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Zavil Sazsemaisi"
+        }
+    ]
+}

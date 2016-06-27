@@ -1,0 +1,50 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "560b87d7-cc6b-47ca-b728-4362e5b61b67", 
+            "name": "Sava\u015f \u00d6zk\u00f6k", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "ney"
+            ], 
+            "mbid": "7b760a7e-0233-41d4-9741-1ac37cba5d37", 
+            "name": "Sadrettin \u00d6z\u00e7imi", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "e470f0e3-d161-4960-8798-4739301fd690", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "hicazkar", 
+        "usul": ""
+    }, 
+    "title": "Hicazkar Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "", 
+                    "name": "", 
+                    "type": ""
+                }
+            ], 
+            "mbid": "e470f0e3-d161-4960-8798-4739301fd690", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicazkar Pesrev"
+        }
+    ]
+}

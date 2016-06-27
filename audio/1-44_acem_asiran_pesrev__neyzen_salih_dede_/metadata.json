@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "428a80a9-d545-4ad3-9324-237368bcf027", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "acema\u015firan", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Acemasiran Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "01412a5d-1858-43b3-b5b0-78f383675e9b", 
+            "score": {
+                "name": "acemasiran--pesrev--devrikebir----dede_salih_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemasiran Pesrev"
+        }
+    ]
+}

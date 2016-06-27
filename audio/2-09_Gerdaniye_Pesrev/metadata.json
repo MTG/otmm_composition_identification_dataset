@@ -1,0 +1,52 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "strings"
+            ], 
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "37ccb351-91d5-4569-88ff-407d0fd8bb87", 
+            "name": "Mehmed Ru\u015fen Ferit Kam", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "4abe7f3d-34ba-43a2-97f6-8ec00d54366e", 
+            "name": "Vecihe Daryal", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "de0424b7-8342-4998-a12d-bf7e37b2464c", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "gerdaniye", 
+        "usul": "beref\u015fan"
+    }, 
+    "title": "Gerdaniye Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8beac5d4-4e27-477e-afe9-30848fdd6da0", 
+                    "name": "Suphi Ezgi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "b386fbab-4353-4291-bcf0-690272da3cd7", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Gerdaniye Pesrev"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "867200f2-dd4e-4d6e-a9ad-780d27990018", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "arazbar", 
+        "usul": "devr-i revan"
+    }, 
+    "title": "Arazbar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "93506dfd-10cd-4473-9502-47ca826d4278", 
+                    "name": "Eyyubi Mehmed Celebi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "07b72770-37f4-4893-90ce-2d40f4c10b6d", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Arazbar Pesrevi"
+        }
+    ]
+}

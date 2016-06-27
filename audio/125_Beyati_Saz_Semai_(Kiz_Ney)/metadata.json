@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai", 
+                "solo"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "78162c6b-0c4e-4226-8fa3-cb25ae3bfff5", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "beyati"
+    }, 
+    "title": "Beyati Saz Semai (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "2871a8ff-e2fa-4568-9562-0a5e3fe57330", 
+                    "name": "Kanuni Omer Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "fac99291-4c31-416b-af9b-4282fb5ca1e8", 
+            "score": {
+                "name": "beyati--sazsemaisi--aksaksemai----kanuni_omer_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Beyati Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "rebab"
+            ], 
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "name": "Aziz \u015eenol Filiz", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "653e27dc-a7c5-4280-ae0a-80611943d12b", 
+            "name": "Birol Yayla", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "daire", 
+                "kud\u00fcm"
+            ], 
+            "mbid": "86353e17-d6a3-478e-8a27-a99fe59f7b15", 
+            "name": "Kamil Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "5a434cc7-f05a-4ddd-bcf7-aec63c27f02e", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u00e7argah", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Cargah Pesrev - Besteci: Dervis Mustafa", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "ce647a75-716d-445d-8d12-7febbc6ec67c", 
+                    "name": "Dervis Mustafa", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "eb865b2a-b3b6-4ca0-a519-51d19189af6b", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Cargah Pesrev"
+        }
+    ]
+}

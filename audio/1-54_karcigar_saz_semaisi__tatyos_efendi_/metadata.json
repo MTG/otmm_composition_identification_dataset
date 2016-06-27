@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "9686312c-a6bc-43d4-899f-5077cead12e9", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "karc\u0131\u011far", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Karcigar Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "a4188c4a-8c7f-4889-b838-d6443aef68dc", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Karcigar Sazsemaisi"
+        }
+    ]
+}

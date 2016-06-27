@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "08d8c58f-02af-4160-b024-c88af7ccd281", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "nikriz", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Nikriz Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "182d7cac-7ade-4712-8865-7ecbc98d719e", 
+                    "name": "Refik Fersan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "610cdc9c-598a-4417-bd7d-d99c93b8c339", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nikriz Sazsemaisi"
+        }
+    ]
+}

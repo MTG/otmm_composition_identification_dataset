@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "1e9a0393-41fd-4e62-be27-533428cdff06", 
+            "name": "Kemal Caba", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "8641a771-520b-4cd2-b809-7122c4984231", 
+            "name": "\u00d6mer \u015eat\u0131ro\u011flu", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "b4bd2653-9631-4457-a6c0-87f32ddaa76b", 
+            "name": "Bekir Reha Sa\u011fba\u015f", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "cfe6aea2-c362-4760-9ad1-b95db1605b6e", 
+            "name": "U\u011fur I\u015f\u0131k", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "c283c657-bee7-4bdb-ab93-98d5b0b6c528", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "d\u00fcgah", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Dugah Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "463196f6-9604-49e6-afa2-f6bde8b1c1a9", 
+                    "name": "Neyzen Yusuf Pasa", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "a2fd92b0-d5fc-4df4-a971-79b5974307fa", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Dugah Pesrev"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "8c48d9d5-954b-4542-9982-8171b8de8011", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "pen\u00e7gah", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Pencgah Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "6e9dd532-9988-4e72-ba2e-c967c282519c", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Pencgah Pesrevi"
+        }
+    ]
+}

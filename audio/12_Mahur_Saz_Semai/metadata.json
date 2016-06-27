@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "304eb33e-730c-4039-8b9a-74b0123710a5", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "mahur", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Mahur Saz Semai", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8c90679b-cc2a-453f-a3c2-19976ffaa367", 
+                    "name": "Kemenceci Nikolaki", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "900d7e9b-b14b-4ab2-9331-dbe5c7c55eb2", 
+            "score": {
+                "name": "mahur--sazsemaisi--aksaksemai----nikolaki", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Mahur Sazsemaisi"
+        }
+    ]
+}

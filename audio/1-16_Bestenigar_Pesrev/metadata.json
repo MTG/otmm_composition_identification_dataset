@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "eb0f6fd9-d53b-49fe-af2e-26cfffea6409", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "bestenigar", 
+        "usul": "fahte"
+    }, 
+    "title": "Bestenigar Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "9157531e-ba32-46e7-8c60-1a66c99f2ace", 
+                    "name": "Tateos Enserciyan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "252165ad-22d6-4932-a71e-e402195ff2c6", 
+            "score": {
+                "name": "bestenigar--pesrev--fahte----tatyos_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Bestenigar Pesrev"
+        }
+    ]
+}

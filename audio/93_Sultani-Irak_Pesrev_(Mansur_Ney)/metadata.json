@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "ec742ca4-ffe3-4436-9fdc-83a99fe2578f", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "sultan-\u0131-arak"
+    }, 
+    "title": "Sultani-Irak Pesrev (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8926a2d1-1470-4b55-8704-3478073c7d5a", 
+                    "name": "Ser Neyzen Ali Dede Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "11806ac4-8670-4ade-bdf2-e6e8870fc96b", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sultan-i-Arak Pesrev"
+        }
+    ]
+}

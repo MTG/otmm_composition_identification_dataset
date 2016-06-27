@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "70a235be-074d-4b9b-8f94-b1860d7be887", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "beyati", 
+        "usul": "hafif"
+    }, 
+    "title": "Bayati Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fcc1e11e-97cf-41a3-9d66-76a944c96968", 
+                    "name": "Seyfettin Osmanoglu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "831d4801-0562-491f-922b-f6f987d19b3d", 
+            "score": {
+                "name": "beyati--pesrev--hafif----seyfettin_osmanoglu", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Beyati Pesrev"
+        }
+    ]
+}

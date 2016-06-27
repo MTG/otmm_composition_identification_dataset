@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "9b6e98f8-b695-45da-8c9c-68d4bab460fd", 
+            "name": "Murat Aydemir", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "92de5dda-981f-4b0c-aea4-6be8dba52b3b", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "pesendide", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Pesendide Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "1ab5a8c5-4693-43e4-809d-353990423938", 
+                    "name": "Sultan III. Selim", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "d1086c07-fb1f-4eb2-9585-9f22ea850f12", 
+            "score": {
+                "name": "pesendide--sazsemaisi--aksaksemai----iii_selim", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Pesendide Saz Semaisi"
+        }
+    ]
+}

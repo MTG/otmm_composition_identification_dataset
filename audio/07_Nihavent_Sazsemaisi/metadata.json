@@ -1,0 +1,52 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "92805785-a644-43f7-8bd8-4dd51bf48529", 
+            "name": "C\u00fcneyd Orhon", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "ef4e5ece-e67c-4102-80e0-08076e238ae6", 
+            "name": "Nevzat S\u00fcmer", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "cello"
+            ], 
+            "mbid": "fe0e21e7-4ea0-4edb-97c2-947dc19843ea", 
+            "name": "H\u00fcsn\u00fc \u00d6zenen", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "bde7d432-bd2b-414f-a91f-15734b932eec", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "nihavent", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Nihavent Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "14ba9c4e-103f-4511-b315-6d4bdea89497", 
+                    "name": "Neyzen Tevfik", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "66ab464b-4097-4720-ac81-81a702312eb5", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Nihavent Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "dadc3769-f61c-4e2f-af59-ddb294be8d0e", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "d\u00fcgah", 
+        "usul": "fahte"
+    }, 
+    "title": "Dugah Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "b411ffc2-e054-4d2c-85a3-adfa8f57e944", 
+                    "name": "Corci", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "56ad5cfe-e727-44b0-96c3-bc49ce9bbcfc", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Dugah Pesrev"
+        }
+    ]
+}

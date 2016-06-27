@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "4162f633-9b4f-4cdf-8284-fdb5aee5f7c4", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "segah"
+    }, 
+    "title": "Segah Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "463196f6-9604-49e6-afa2-f6bde8b1c1a9", 
+                    "name": "Neyzen Yusuf Pasa", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d", 
+            "score": {
+                "name": "segah--pesrev--devrikebir----neyzen_yusuf_pasa", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Segah Pesrev"
+        }
+    ]
+}

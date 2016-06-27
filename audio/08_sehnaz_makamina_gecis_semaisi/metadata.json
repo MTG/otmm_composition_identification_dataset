@@ -1,0 +1,37 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun", 
+                "solo"
+            ], 
+            "mbid": "92e61b85-9fd6-4c4b-9d1a-297ffbfbe0b9", 
+            "name": "Erol Deran", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "814e8cc7-3362-49de-9579-9a0036a3cc41", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u015fehnaz", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Sehnaz Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8c90679b-cc2a-453f-a3c2-19976ffaa367", 
+                    "name": "Kemenceci Nikolaki", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "71710555-64c8-4293-aa85-edf072abbdbe", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sehnaz Sazsemaisi"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "oud"
+            ], 
+            "mbid": "0a7cf3b7-97a1-4187-ac32-698a3ceb27a2", 
+            "name": "Necati \u00c7elik", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "e59fe53d-d505-43a2-aea3-2ecafecd9d23", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "hicaz", 
+        "usul": "hafif"
+    }, 
+    "title": "Hicaz Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "182d7cac-7ade-4712-8865-7ecbc98d719e", 
+                    "name": "Refik Fersan", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "52cfbdfb-ddb5-49b7-894b-f822caab2d02", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicaz Pesrev"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "5ed8e36f-50fa-4912-b380-e0a2549ca606", 
+            "name": "Alper Uzkur", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "d858c208-8ab3-4588-b1d7-f54d24a72f20", 
+            "name": "Turgut \u00d6z\u00fcfler", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "violin"
+            ], 
+            "mbid": "e26140e6-0b60-4849-8143-c504a96a0139", 
+            "name": "Hasan Nar", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "fbd684b5-7204-4e39-9286-ad4ae5eb481b", 
+            "name": "Ba\u015far Dikici", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "fc829aa9-a5e2-4262-a66e-031f04fa1a97", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "acema\u015firan", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Acem Asiran Saz Semaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "d8ab1cd7-262c-444f-8e6b-ee226022a316", 
+                    "name": "Misirli Ibrahim Efendi", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "baabfe67-5f03-4f6a-8d0d-592e36a2894b", 
+            "score": {
+                "name": "acemasiran--sazsemaisi--aksaksemai----misirli_udi_ibrahim_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemasiran Sazsemaisi"
+        }
+    ]
+}

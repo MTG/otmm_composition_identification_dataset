@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kemenche"
+            ], 
+            "mbid": "37ccb351-91d5-4569-88ff-407d0fd8bb87", 
+            "name": "Mehmed Ru\u015fen Ferit Kam", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "4abe7f3d-34ba-43a2-97f6-8ec00d54366e", 
+            "name": "Vecihe Daryal", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "2f9dfc62-068d-49dd-b370-a472cbb3ea98", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "h\u00fczzam", 
+        "usul": "muhammes"
+    }, 
+    "title": "Huzzam Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "fcc1e11e-97cf-41a3-9d66-76a944c96968", 
+                    "name": "Seyfettin Osmanoglu", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "852232f7-e223-4561-9a22-313eb858c469", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Huzzam Pesrev"
+        }
+    ]
+}

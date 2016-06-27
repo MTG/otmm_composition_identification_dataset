@@ -1,0 +1,35 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "3a57e3a4-4e48-4ce2-aae0-c5b5275721eb", 
+            "name": "Salih Bilgin", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "3b014584-cbe2-4042-99ec-93249f43c040", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "h\u00fcseyni"
+    }, 
+    "title": "Huseyni Saz Semai (Mansur Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "81287063-9c1b-42f0-bf5a-8ecaf6a84d08", 
+                    "name": "Lavtaci Andon", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "53b4d534-9bd1-440c-a58a-a2ae11731b23", 
+            "score": {
+                "name": "huseyni--sazsemaisi--aksaksemai----lavtaci_andon", 
+                "type": "symbTr_v1"
+            }, 
+            "title": "Huseyni Sazsemaisi"
+        }
+    ]
+}

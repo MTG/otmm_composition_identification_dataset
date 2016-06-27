@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai"
+            ], 
+            "mbid": "5bbdd002-8e2e-4529-a9e1-ac30edab9a00", 
+            "name": "Can G\u00fclbol", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "9c4dac10-62ab-48ab-9bc3-0f1927ee0f9b", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "pesendide", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Pasendide Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "1ab5a8c5-4693-43e4-809d-353990423938", 
+                    "name": "Sultan III. Selim", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "d1086c07-fb1f-4eb2-9585-9f22ea850f12", 
+            "score": {
+                "name": "pesendide--sazsemaisi--aksaksemai----iii_selim", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Pesendide Saz Semaisi"
+        }
+    ]
+}

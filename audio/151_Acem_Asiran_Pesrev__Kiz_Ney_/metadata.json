@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "ney"
+            ], 
+            "mbid": "2b814947-2768-4fb5-b70e-5974bd6ffa23", 
+            "name": "Aziz \u015eenol Filiz", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "bbe3c943-332a-4ddb-96d0-986e7bd350ef", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "acema\u015firan", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Acem Asiran Pesrev (Kiz Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4db117ea-b108-4cdd-8e8a-3b4c984a3595", 
+                    "name": "Neyzen Salih Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "01412a5d-1858-43b3-b5b0-78f383675e9b", 
+            "score": {
+                "name": "acemasiran--pesrev--devrikebir----dede_salih_efendi", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Acemasiran Pesrev"
+        }
+    ]
+}

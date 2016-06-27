@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "kanun"
+            ], 
+            "mbid": "275d05f3-a41e-4143-b966-5066abd0161b", 
+            "name": "Halil Karaduman", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "35ec0ba0-88bc-46c6-b19b-4770ecabb806", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "\u015fehnaz", 
+        "usul": "aksaksemai"
+    }, 
+    "title": "Sehnaz Sazsemaisi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "8c90679b-cc2a-453f-a3c2-19976ffaa367", 
+                    "name": "Kemenceci Nikolaki", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "71710555-64c8-4293-aa85-edf072abbdbe", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sehnaz Sazsemaisi"
+        }
+    ]
+}

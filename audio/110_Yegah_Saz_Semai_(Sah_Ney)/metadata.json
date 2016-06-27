@@ -1,0 +1,36 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "nai", 
+                "solo"
+            ], 
+            "mbid": "01a5c3c3-d290-46b7-8caa-a248d0a8032b", 
+            "name": "Halil Dikmen", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "4516825a-e246-4355-836b-0fc632ea7b24", 
+    "tags": {
+        "form": "sazsemaisi", 
+        "makam": "yegah"
+    }, 
+    "title": "Yegah Saz Semai (Sah Ney)", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "a6775723-69b6-4997-82da-bf230b1f8655", 
+                    "name": "Neyzen Aziz Dede", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "8457bce2-07f0-4502-ae86-19b61c6bb77e", 
+            "score": {
+                "name": "yegah--sazsemaisi--aksaksemai----neyzen_aziz_dede", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Yegah Sazsemaisi"
+        }
+    ]
+}

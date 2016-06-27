@@ -1,0 +1,44 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "36e8968e-2b15-43a9-a79c-c70e0a6f5ed8", 
+            "name": "Mesut Cemil Bey", 
+            "type": "instrument"
+        }, 
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "ef7f9168-eec5-4ecd-a142-132ef3355fc1", 
+            "name": "Erc\u00fcmend Batanay", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "93304853-09e2-4c28-9c46-c6676c47a53e", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "\u015fedaraban", 
+        "usul": "fahte"
+    }, 
+    "title": "Sedd-i Araban Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "4cc5200e-a3f7-4d5d-8b15-9b10a8f9a9a2", 
+                    "name": "Tanburi Cemil Bey", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "83291c8a-4ef1-4ffc-8b50-3fc03890f5a4", 
+            "score": {
+                "name": "sedaraban--pesrev--fahte----tanburi_cemil_bey", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Sedaraban Pesrevi"
+        }
+    ]
+}

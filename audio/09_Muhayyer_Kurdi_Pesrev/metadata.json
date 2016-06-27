@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "b5000f5b-7760-4ff8-a6d1-e79a80b1bc9a", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "muhayyerk\u00fcrdi", 
+        "usul": "devr-i kebir"
+    }, 
+    "title": "Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "876501ba-f481-417b-a335-5febf53f6032", 
+                    "name": "Asdik Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "35de9f7a-fbdf-4f59-80f5-82aee2ab7d78", 
+            "score": {
+                "name": "muhayyerkurdi--pesrev--devrikebir----asdik_aga", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Muhayyerkurdi Pesrev"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "artists": [
+        {
+            "attribute-list": [], 
+            "mbid": "", 
+            "name": "", 
+            "type": ""
+        }
+    ], 
+    "mbid": "7c3d4595-a20d-4500-b78d-177dfb2e7005", 
+    "tags": {
+        "form": "pe\u015frev", 
+        "makam": "hicaz"
+    }, 
+    "title": "Hicaz Pesrevi", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "", 
+                    "name": "", 
+                    "type": ""
+                }
+            ], 
+            "mbid": "a5831907-7ecf-4d70-a9d7-38dd60347f4e", 
+            "score": {
+                "name": "", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Hicaz Pesrev"
+        }
+    ]
+}

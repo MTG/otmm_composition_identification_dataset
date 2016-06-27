@@ -1,0 +1,38 @@
+{
+    "artists": [
+        {
+            "attribute-list": [
+                "tanbur"
+            ], 
+            "mbid": "eb150720-40d5-4da9-8c8b-b149601c73e5", 
+            "name": "Necdet Ya\u015far", 
+            "type": "instrument"
+        }
+    ], 
+    "mbid": "e53fafa0-051e-4b79-adad-52fda8488eb1", 
+    "tags": {
+        "form": "taksim", 
+        "form1": "pe\u015frev", 
+        "makam": "muhayyerk\u00fcrdi", 
+        "usul": "serbest", 
+        "usul1": "devr-i kebir"
+    }, 
+    "title": "Muhayyerkurdi Taksim, Muhayyerkurdi Pesrev", 
+    "works": [
+        {
+            "artists": [
+                {
+                    "mbid": "876501ba-f481-417b-a335-5febf53f6032", 
+                    "name": "Asdik Aga", 
+                    "type": "composer"
+                }
+            ], 
+            "mbid": "35de9f7a-fbdf-4f59-80f5-82aee2ab7d78", 
+            "score": {
+                "name": "muhayyerkurdi--pesrev--devrikebir----asdik_aga", 
+                "type": "symbTr_v2"
+            }, 
+            "title": "Muhayyerkurdi Pesrev"
+        }
+    ]
+}
