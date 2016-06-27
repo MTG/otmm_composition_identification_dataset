@@ -1,8 +1,9 @@
 # audio files
 *.mp3
 
-# log files 
+# log files and file/folder related files
 *.log
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
