@@ -3,7 +3,7 @@ Composition Identification dataset for Ottoman-Turkish Makam Music
 
 This repository contains the machine readable music scores and the predominant melody extracted from the audio recordings along with the annotated tonic frequencies used in the paper:
 
-> Şentürk, S., & Serra X. (2016). Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment. In Proceedings of 13th Sound and Music Computing Conference (SMC 2016), (pp. XX–XX)., Hamburg, Germany.
+> Şentürk, S., & Serra X. (2016). Composition Identification in Ottoman-Turkish Makam Music Using Transposition-Invariant Partial Audio-Score Alignment. In Proceedings of 13th Sound and Music Computing Conference (SMC 2016), (pp. 434-441)., Hamburg, Germany.
 
 Please cite the publication above in any work using this dataset.
 
