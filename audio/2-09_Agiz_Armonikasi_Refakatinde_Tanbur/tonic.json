@@ -1,9 +1,9 @@
 {
 	"annotation": {
 		"Unit": "Hz",
-		"OctaveWrapped": 0,
-		"Value": 174,
-		"Method": "Last note detection",
-		"Citation": "atli2015fma"
+		"OctaveWrapped": 1,
+		"Value": 351.8,
+		"Method": "Note models by joint audio-score analysis",
+		"Citation": "senturk2016thesis"
 	}
 }
