@@ -2,8 +2,8 @@
 	"annotation": {
 		"Unit": "Hz",
 		"OctaveWrapped": 0,
-		"Value": 280,
-		"Method": "Last note detection",
-		"Citation": "atli2015fma"
+		"Value": 291.0,
+		"Method": "By listening; refine the precision later!",
+		"Citation": "senturk2016smc"
 	}
 }
